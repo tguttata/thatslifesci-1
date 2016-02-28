@@ -1,0 +1,41 @@
+#
+#   Navigation to the left › side: left
+#
+- title: Home
+  url: "/"
+  side: left
+
+- title: "About"
+  url: "/info/"
+  side: left
+  dropdown:
+  - title: "About Us"
+    url: "#"
+  - title: "Meet the Authors"
+    url: "#"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+  - title: "Categories"
+    url: "/blog/categories/"
+  - title: "Tags"
+    url: "/blog/tags/"
+
+#
+#   Navigation to the right › side: right
+#
+- title: "Info"
+  url: "/info/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
