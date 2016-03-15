@@ -2,7 +2,7 @@
 #   Navigation to the left › side: left
 #
 - title: Home
-  url: "/"
+  url: "/blog"
   side: left
 
 - title: "About"
