@@ -36,7 +36,7 @@ callforaction:
   url: https://tinyletter.com/feeling-responsive
   text: Inform me about new updates and features ›
   style: alert
-permalink: /index.html
+permalink: /something.html
 ---
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
