@@ -3,11 +3,11 @@ layout: page
 #
 # Content
 #
-subheadline: "The Environment"
+subheadline:
 title: "5 ways humans mess up the environment  (when they are trying to help)"
 teaser: "There’s no question that human activities impact the natural environment. Some times human activities have devastating consequences on the environment, while some human activities have the sole purpose of improving or restoring the environment. Unfortunately, the latter occasionally has a negative result, despite having positive intentions."
 categories:
-  -
+  - The Environment
 tags:
   -
 #
