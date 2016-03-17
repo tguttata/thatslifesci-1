@@ -1,0 +1,46 @@
+---
+title: What is wrong with my tomatoes?...And other plant disease questions
+layout: page
+author: thatslifescience
+permalink: /copy-of-20160306_allanperkins_post.docx/
+tags:
+- disease
+- plant
+- phytopathology
+- fungi
+- bacteria
+- viruses
+subheadline: "Today’s Question: What is Phytopathology?"
+source-id: 1kFqr82yr9kRFV51DoHElXtXkeeHXlI1xBvMJOC2GQoA
+published: true
+---
+	Spring is almost here and I love seeing all the plants coming alive again.  With the new growth coming out of the ground and gardeners starting seeds, it not only signifies that the time of fresh cut flowers and hand picked vegetables is upon us, but also the start of the plant disease season.  As the growing season starts, phytopathologists (scientists like me who study plant disease) are gearing up to research diseases and/or identify diseases for local growers.
+
+	For this first post, I want to tell you a little about what plant diseases are.  I guarantee you have seen many sick plants or rotting fruits and vegetables in your day, we all have.  Although sometimes the damage you see is from non-living or abiotic stresses, like too much sun, too many nutrients, or too little water, a lot of it is from living or biotic stresses.  So who are these living bad guys?
+
+	The majority of them are fungi.  This group of organisms contains the mushrooms we commonly eat or see growing in the woods, but also tiny microscopic versions that love to eat plants.  They are responsible for problems like powdery mildew, that white fuzz that gets all over your cucumbers or lilacs (Figure 1), and for the grey fuzz on your oranges or peaches that have been sitting on the counter for too long (Figure 2).  There are also organisms called oomycetes, which are often grouped with the fungi because they look and act similar, and they cause problems like late blight on your tomatoes (Figure 3).  
+
+	Bacteria and viruses can also make your plants sick, just like they make people sick.  If you've ever seen little black specks on your tomato leaves or on your tomato fruits, you may have an infection by bacteria called *Pseudomonas syringae* (Figure 4).  Potato Virus Y not only harms potatoes, but can infect tomato plants too (Figure 5).  
+
+	With all the organisms out there that can harm your plants, it's amazing more of them aren’t sick.  Luckily, the plants are pretty good at defending themselves and phytopathologists work very hard to keep them healthy as well.  What kinds of things do phytopathologists do?  Some of us study diseases to learn more about how organisms infect plants, how they spread, and what plants they can infect so we can prevent them from spreading or infecting.  Other researchers study ways of controlling disease, like developing new pesticides or management strategies (like spacing plants further apart or watering at certain times of the day).   Some phytopathologists work to breed plants that are more resistant to disease.  Others work in diagnostic clinics, like the University of Massachusetts Plant Diagnostic Clinic ([https://ag.umass.edu/diagnostics](https://ag.umass.edu/diagnostics)) where they receive samples from local farmers and homeowners.  They identify what is wrong with the plant (abiotic or biotic) and give the grower recommendations on how to manage the problem.  Most phytopathologists do a mixture of all of these.
+
+	So this growing season if you see anything fuzzy, spotty, or generally wrong with your tomatoes (or other plants) think about the phytopathologists who would secretly be a little excited to look at your cool disease and are very happy to help you keep it from happening again.
+
+![image alt text]({{ site.url }}/public/eLhEy7KyXOFsRi7GZmRSw_img_0.jpg)
+
+**Figure 1. Powdery mildew on cucumber (****[Wikipedi**a](https://upload.wikimedia.org/wikipedia/commons/0/07/Powdery_mildew.JPG)**)**
+
+![image alt text]({{ site.url }}/public/eLhEy7KyXOFsRi7GZmRSw_img_1.jpg)
+
+**Figure 2 Fungal rot on nectarines (****[Wikipedi**a](https://upload.wikimedia.org/wikipedia/commons/6/6e/Moldy_nectarines.jpg)**) **![image alt text]({{ site.url }}/public/eLhEy7KyXOFsRi7GZmRSw_img_2.jpg)
+
+**Figure 3 Late blight on tomatoes (****[Scot Nelson, Wikipedi**a](https://upload.wikimedia.org/wikipedia/commons/0/06/Late_blight_of_tomato_caused_by_Phytophthora_infestans_(5815188381).jpg)**)**
+
+![image alt text]({{ site.url }}/public/eLhEy7KyXOFsRi7GZmRSw_img_3.jpg)
+
+**Figure 4 Bacterial speck on tomatoes (By Chris Smart, NYSAES, Geneva NY - Chris Smart, NYSAES, Geneva NY, CC0, ****[https://commons.wikimedia.org/w/index.php?curid=1454217**0](https://commons.wikimedia.org/w/index.php?curid=14542170)**)**
+
+![image alt text]({{ site.url }}/public/eLhEy7KyXOFsRi7GZmRSw_img_4.jpg)
+
+**Figure 5 Potato virus on tomato leaves (By Scot Nelson https://www.flickr.com/photos/scotnelson/14006360653)**
+
