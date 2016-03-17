@@ -3,11 +3,11 @@ layout: page
 #
 # Content
 #
-subheadline: "Plants & Animals"
+subheadline: 
 title: "Kangaroos are considered a pest in Australia. Surprised? So was I."
 teaser: "A few years ago, if someone asked me to say two things that I associated with Australia, it would have been kangaroos and koalas. These two animals have become iconic posterchildren for the great outback. What do tourists do when they go to Australia? Hold a koala, pet a wallaby, feed a kangaroo. I was offered all these opportunities when I stayed in Queensland, Australia for a semester abroad. Perhaps I was naïve, but I was surprised to find grocery stores and restaurants serving up kangaroo on the menu. We learned that kangaroos are actually considered a pest in many parts of the outback. "
 categories:
-  -
+  - Plants & Animals
 tags:
   - Adaptation
   - Human-Animal-Interactions
