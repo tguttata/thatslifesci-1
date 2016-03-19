@@ -51,9 +51,9 @@ The female can use her silk, which unlike spiders does not come out of her rear 
 
 What an awesome and hilarious creature. So far I've only gotten to see them in my preserved samples, under a microscope. One day I hope to see a live pseudoscorpion out there in the woods, riding his majestic beetle steed, hoping to impress a lady.
 
-For more information on pseudoscorpions, check out this blog post by Christoper Buddle http://www.scilogs.com/expiscor/ten-facts-about-pseudoscorpions/ or any of the sources at the bottom.
+For more information on pseudoscorpions, check out this blog [post](http://www.scilogs.com/expiscor/ten-facts-about-pseudoscorpions/) by Christoper Buddle  or any of the sources at the bottom.
 
-# Bartlett, T., R. McLeod, C. Wirth, C. Entz, G. Montgomery, C. Eiseman, J.C. Trager, and V. Belov. 2014. Order Pseudoscorpiones – Pseudoscorpions [Internet]. Iowa State University Department of Entomology, Ames, IA; [cited 2016 Feb 13].  Available from: http://bugguide.net/node/view/2892.
+Bartlett, T., R. McLeod, C. Wirth, C. Entz, G. Montgomery, C. Eiseman, J.C. Trager, and V. Belov. 2014. Order Pseudoscorpiones – Pseudoscorpions [Internet]. Iowa State University Department of Entomology, Ames, IA; [cited 2016 Feb 13].  Available from: http://bugguide.net/node/view/2892.
 
 Borror, D.J. and R.E. White. 1970. A field guide to the insects of America north of Mexico. Houghton Mifflin Co., Boston, MA. pp 54-55.
 
