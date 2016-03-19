@@ -1,27 +1,22 @@
 ---
 title: Pseudoscorpions
+subheadline: "Creature Feature"
 layout: page
 author: kstraley
 permalink: /pseudoscorpions/
 tags:
 - creaturefeature
 - arachnid
+- natural history
 categories:
-- Creature Feature
+- Earth's Organisms
 
 teaser: "I came to school to study birds, and as luck would have it many birds eat bugs, so now I spend most of my time with bugs. I thought that this shift in subject would be a total bummer, completely boring, and let’s be honest – gross. Bugs can be pretty terrifying, especially if you don’t understand their behavior and why they have such odd strategies for life."
 source-id: 1BD5AF5Ih5Z9J_KfncfJYATt508oODHq5B2wFhBQXFq4
 published: true
 ---
-**Life Sciences Blog Post #1, 3.6.16, Kit Straley**
-
-Title: Creature Feature: Pseudoscorpions
-
-Keywords: #creaturefeature #arachnid #naturalhistory
-
-![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg) This tiny critter spins silk, incapacitates small insects with venom from its claws, and may even live in your house. Photo by Kyron Basu, BugGuide.net.
-
-I came to school to study birds, and as luck would have it many birds eat bugs, so now I spend most of my time with bugs. I thought that this shift in subject would be a total bummer, completely boring, and let's be honest – gross. Bugs can be pretty terrifying, especially if you don’t understand their behavior and why they have such odd strategies for life.
+![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg) 
+This tiny critter spins silk, incapacitates small insects with venom from its claws, and may even live in your house. Photo by Kyron Basu, BugGuide.net.
 
 One day, I was dumping out a jar full of preserved bugs from some forest leaf litter I'd collected from one of my field sites. I put the insects under a microscope and was shocked to see what looked like an adorable, teeny tiny scorpion. But wait - It couldn’t possibly be a scorpion! I collect my samples in Massachusetts, not a desert state in the southwest. Also, this scorpion seemed to be missing its tail. As I kept encountering more and more of these tail-less individuals, I realized that this must be something entirely different.
 
@@ -31,7 +26,8 @@ Three individuals, each smaller than a grain of white rice! Photo by Kit Straley
 
 They're called pseudoscorpions, belonging to the Pseudoscorpiones group of arachnids related to true scorpions and spiders. There are over 3,500 species of them worldwide, a whopping number when you consider that there are less than 300 species of mammals belonging to the Carnivora group. North America in particular has approximately 420 species.
 
- ![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_2.jpg)Figure from Buddle (2010) illustrating the diversity of pseudoscorpions in size, shape, and color.
+ ![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_2.jpg)
+Figure from Buddle (2010) illustrating the diversity of pseudoscorpions in size, shape, and color.
 
 These creatures are incredibly diverse and exist worldwide. Despite their high levels of diversity, they are rarely seen because they live under bark or stones, in leaf litter or mosses, and between the boards of buildings. One particular species even lives in houses, hunting the small insects that would otherwise be house pests. Should we be scared? After all, they do have pinching claws that produce venom.
 
