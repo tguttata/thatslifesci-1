@@ -10,12 +10,12 @@ tags:
 teaser: "In the last few months, media outlets have been pumping out stories on Zika Virus and a potentially related birth defect, microcephaly due to outbreaks and its rapid spread in parts of South and Central America. All of these updates say the same key things."
 source-id: 1OzbC-XZBoG-DOESPd39rwQxAOeesP-prv2kXxBgl-zA
 published: true
+header: no
+image:
+title: zika1.png
+caption: Yellow indicates areas that have had evidence of Zika virus infection.
+caption_url: http://www.nytimes.com/2016/01/05/health/us-becomes-more-vulnerable-to-tropical-diseases-like-zika.html
 ---
-
-![image alt text]({{ site.url }}/public/2GIzv94RdBNzVtEGzdEfXA_img_0.png)
-
-Yellow indicates areas that have had evidence of Zika virus infection. Originally published on NYTimes.com
-
 Zika is:
 
 * spreading quickly 
