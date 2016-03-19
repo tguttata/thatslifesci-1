@@ -11,15 +11,12 @@ teaser: "In the last few months, media outlets have been pumping out stories on 
 source-id: 1OzbC-XZBoG-DOESPd39rwQxAOeesP-prv2kXxBgl-zA
 published: true
 ---
-Medical Mysteries Still Surrounding Zika Virus
-
-Keywords: Zika, health, world news
 
 ![image alt text]({{ site.url }}/public/2GIzv94RdBNzVtEGzdEfXA_img_0.png)
 
 Yellow indicates areas that have had evidence of Zika virus infection. Originally published on NYTimes.com
 
-In the last few months, media outlets have been pumping out stories on Zika Virus and a potentially related birth defect, microcephaly due to outbreaks and its rapid spread in parts of South and Central America. All of these updates say the same key things. Zika is:
+Zika is:
 
 * spreading quickly 
 
@@ -41,7 +38,5 @@ This diagnosis dilemma exacerbates the problem of limited knowledge on how infec
 
 These pieces of information are frustrating not to have, but hopefully with the new attention on the problem, solutions will come quickly. Before we have these answers, there are many ways for the people in affected areas to be cautious; mosquito nets, repellents, and delaying pregnancy. Armed with the right questions, scientists continue to search for answers to diagnosis and prevention of the spread of Zika virus infection. 
 
-Rubin, Eric J., Michael F. Greene, and Lindsey R. Baden. "Zika Virus and 
-
-     Microcephaly." The New England Journal of Medicine, 2010.
+Rubin, Eric J., Michael F. Greene, and Lindsey R. Baden. "Zika Virus and Microcephaly." The New England Journal of Medicine, 2010.
 
