@@ -13,7 +13,7 @@ teaser: "Growing up, I loved plants and animals, but hated being outside. I didn
 source-id: 1r_rBHO6plAgvtHVaO95vs3MGQMpz0x2LLIiROl45Keo
 published: true
 image:
-  thumbnail: 20160306_Hancock_Fig1.jpg
+  thumb: 20160306_Hancock_Fig1.jpg
 header: no
 ---
 First off, some of you might want to know what ecology really is. Ecology is the branch of biology that studies the interactions of organisms to each other and their environment, which is basically just a fancy way of saying that we're interested in how plants, animals, and the environment affect each other.
