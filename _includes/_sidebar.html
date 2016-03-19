@@ -3,34 +3,13 @@
 		<h3>Read More</h3>
 		<p>
 			<ul class="side-nav">
-				{% assign category = include.category %}
-				{% assign tag = include.tag %}
-				<ul class="side-nav">
-
-				  {% if category == NULL and tag == NULL %}
-
-				    {% for post in site.posts limit:include.entries offset:include.offset %}
-				      <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
-				    {% endfor %}
-				      <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
-
-
-				  {% elsif category %}
-
-				    {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
-				      <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
-				    {% endfor %}
-				      <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
-
-
-				  {% elsif tag %}
-
-				    {% for post in site.tags.[tag] limit:include.entries %}
-				      <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
-				    {% endfor %}
-
-				  {% endif %}
-				</ul>
-		</p>
+		{% assign categories_url = site.baseurl | append: '/blog/category/' %}
+		<h3><a href="{{ categories_url }}">Categories</a></h3>
+		<ul class="no-bullet">
+		{% for category in site.categories %}
+			{% assign category_key = category[0] %}
+			<li class="icon-alias-category">{% include page_categories.html categories=category_key %}</li>
+		{% endfor %}
+		</li>
 	</div>
 </aside>
