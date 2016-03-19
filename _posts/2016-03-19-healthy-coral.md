@@ -3,8 +3,8 @@ title: You won't believe this simple trick to tell if your coral is healthy or n
 layout: page
 author: cshaughnessy
 permalink: /healthy-coral/
+subheadline: "Grad School Diaries"
 categories:
-- Grad School Diaries
 - Earth's Organisms
 tags:
 - coral
@@ -30,14 +30,14 @@ Now, why are you reading about click bait in a blog about biology? Here's why: m
 
 I purpose a solution: biologists and science journalists who cover biology should title their research with 'clickability' in mind. This way, the rest of us will have an easier time finding, clicking on, and reading about the cool new research going on.
 
-![Healthy coral reef](/images/20160306_Shaughnessy_Fig1.jpg)
+![Healthy coral reef](20160306_Shaughnessy_Fig1.jpg)
 **Fig 1.** Healthy coral reef (Jim Maragos, U.S. Fish & Wildlife Service)
 
 Here is an example: A recent article published in the *Journal of Experimental and Marine Biology and Ecology* is titled "Mitochondrial electron transport activity and metabolism of experimentally bleached hermatypic corals" [1]. Your brain was probably turning off half-way through reading that title, right? But the research is actually very interesting, and you *should* read the article. The researchers on this project report on a faster and easier way for biologists to monitor the health of coral reefs — which is important because we all want to keep our coral reefs healthy! After all, coral reefs are some of the most productive and beautiful ecosystems on this planet. So, have you read this article yet?
 
 Here's the back story: One consequence of warming ocean temperatures and increasing ocean acidification due to global climate change is causing something called 'coral bleaching’. What’s coral bleaching, you ask? It’s bad. Coral bleaching is when coral colonies lose their color and eventually collapse. The most traditional hypothesis for the way coral bleaching happens has to do with the colorful, algae-like organisms that live inside coral and give coral it’s color. These microscopic organisms are called zooxanthellae and they have a mutually-beneficial relationship with the coral they live inside — the coral provide the zooxanthellae a home, and the zooxanthellae provide the coral nutrients in return. When the warming or acidifying ocean environment harms the health of the zooxanthellae and they stop providing the coral with nutrients, the coral expels the zooxanthellae and end up turning a stark white color. If no new zooxanthellae move back into the coral, its bad news for the coral.
 
-![Bleached coral](/images/20160306_Shaughnessy_Fig2.jpg)
+![Bleached coral](20160306_Shaughnessy_Fig2.jpg)
 **Fig 2.** Bleached coral, Keppel Islands, Great Barrier Reef (public domain)
 
 Recently however, biologists have begun to realize the health of coral itself (rather than just the zooxanthellae) actually plays a bigger role in the cause of coral bleaching. So, if biologists could monitor the health of the coral, maybe they could predict and help stop coral bleaching events. Unfortunately monitoring the health of coral has been a really hard thing to do. 
@@ -48,7 +48,7 @@ Wow! Knowing about coral bleaching events before they happen is important stuff.
 
 To make sure I never miss an article like this again, I suggest biologists and science journalists consider using more 'clickable' titles, such as: "*You won’t believe this simple trick to tell if your coral is healthy or not*".
 
-![Title](/images/20160306_Shaughnessy_Fig3.jpg)
+![Title](20160306_Shaughnessy_Fig3.jpg)
 **Fig 3.** A more 'clickable' title?
 
 Citations:
