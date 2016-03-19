@@ -14,7 +14,7 @@ source-id: 1twhoJHbf9mHK4zqGEo-dsOR-8DBUi-Ap_WCjOl6ymiA
 published: true
 header: no
 image:
-  thumb: 20160306_Kuras_Fig2.png
+  thumb: 20160306_Kuras_Fig1.png
 ---
 To: aspiring scientists
 
