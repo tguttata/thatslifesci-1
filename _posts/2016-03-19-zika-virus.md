@@ -3,6 +3,8 @@ title: Medical Mysteries Still Surrounding Zika Virus
 layout: page
 author: sdelzell
 permalink: /zika-virus/
+categories:
+- How It Works
 tags:
 - zika
 - health
