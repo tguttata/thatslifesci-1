@@ -1,7 +1,7 @@
 ---
 title: Medical Mysteries Still Surrounding Zika Virus
 layout: page
-author: thatslifescience
+author: sdelzell
 permalink: /zika-virus/
 tags:
 - zika
