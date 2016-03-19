@@ -26,24 +26,23 @@ image:
 header:
   image_fullwidth: "you-can-delete-me-header.png"
 ---
-![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg "This tiny critter spins silk, incapacitates small insects with venom from its claws, and may even live in your house. Photo by Kyron Basu, BugGuide.net.")
+![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg)
+**Fig 1.** This tiny critter spins silk, incapacitates small insects with venom from its claws, and may even live in your house. Photo by Kyron Basu, BugGuide.net.
 
 One day, I was dumping out a jar full of preserved bugs from some forest leaf litter I'd collected from one of my field sites. I put the insects under a microscope and was shocked to see what looked like an adorable, teeny tiny scorpion. But wait - It couldn’t possibly be a scorpion! I collect my samples in Massachusetts, not a desert state in the southwest. Also, this scorpion seemed to be missing its tail. As I kept encountering more and more of these tail-less individuals, I realized that this must be something entirely different.
 
  ![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_1.jpg)
-
-Three individuals, each smaller than a grain of white rice! Photo by Kit Straley.
+**Fig 2.** Three individuals, each smaller than a grain of white rice! Photo by Kit Straley.
 
 They're called pseudoscorpions, belonging to the Pseudoscorpiones group of arachnids related to true scorpions and spiders. There are over 3,500 species of them worldwide, a whopping number when you consider that there are less than 300 species of mammals belonging to the Carnivora group. North America in particular has approximately 420 species.
 
  ![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_2.jpg)
-Figure from Buddle (2010) illustrating the diversity of pseudoscorpions in size, shape, and color.
+**Fig 3.** Figure from Buddle (2010) illustrating the diversity of pseudoscorpions in size, shape, and color.
 
 These creatures are incredibly diverse and exist worldwide. Despite their high levels of diversity, they are rarely seen because they live under bark or stones, in leaf litter or mosses, and between the boards of buildings. One particular species even lives in houses, hunting the small insects that would otherwise be house pests. Should we be scared? After all, they do have pinching claws that produce venom.
 
 ![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_3.jpg)
-
- Close up of a "thoughtful" pseudoscorpion. Photo by Dennis Spamlin, Flickr.
+**Fig 4.** Close up of a "thoughtful" pseudoscorpion. Photo by Dennis Spamlin, Flickr.
 
 Pseudoscorpions are not harmful to humans, and are in fact helpful! They do not damage property, eat tiny pests like mites, and their venom is not dangerous to us in such small amounts.
 
@@ -51,9 +50,8 @@ Now that we've gotten that concern out of the way, let’s focus on what makes t
 
 They hitch a ride. Pseudoscorpions have been documented hitchhiking on all kinds of flies and beetles. In one particular study of their hitchhiking, scientists found that males even BATTLE IT OUT on the backs of beetles to establish mating territories should a female hop on.
 
-![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_4.jpg)![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_5.jpg)
-
-Pseudoscorpions hitching a ride on flies. Left photo by Tom Murray, right photo by Nick Block, BugGuide.net.
+![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_4.jpg)![image alt text]({{ site.url}}/public/TjWWdc4FS66dcRPYmrXLKw_img_5.jpg)
+**Fig 5.** Pseudoscorpions hitching a ride on flies. Left photo by Tom Murray, right photo by Nick Block, BugGuide.net.
 
 For mating, males deposit sperm packets on the ground for the females to pick up. Sometimes she finds it on her own, sometimes he helps her out by leaving a trail of silk to guide her, and sometimes he just straight up drags her over the sperm pile to make sure she doesn't miss it!
 
