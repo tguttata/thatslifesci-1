@@ -9,7 +9,7 @@ tags:
 - biodiversity
 - biogeography
 - tropoics
-teaser: "Imagine the [North Pole](https://upload.wikimedia.org/wikipedia/commons/4/4c/Baffin_Island_Northeast_Coast_1997-08-07.jpg). Now imagine the [Amazon Rainforest](https://upload.wikimedia.org/wikipedia/commons/e/e8/Amazon_jungle_from_above.jpg). Which place is home to more plants and animals? This seems like a very simple question, and it is. The Amazon has more plants, animals, and species in general than the North Pole. Perhaps, the better question here is WHY are there so many more species in the Amazon?"
+teaser: "Imagine the North Pole. Now imagine the Amazon Rainforest. Which place is home to more plants and animals? This seems like a very simple question, and it is. The Amazon has more plants, animals, and species in general than the North Pole. Perhaps, the better question here is WHY are there so many more species in the Amazon?"
 source-id: 1bz9VMOpn4VcCHpOrXLe40XCMPRPghWpSn1EtW5p9ysA
 published: true
 ---
@@ -21,11 +21,11 @@ Figure 1: The Amazon Rainforest is home to many plants and animals. Source: "Ama
 
 Let's start by thinking about why speciation is so high in the tropics. Some scientists believe it is because there has been more time for evolution in the tropics. We can think of this in two ways: 
 
-	1) Evolution has been acting longer in tropical areas than areas at higher latitudes 	because of the last ice age1.
+* Evolution has been acting longer in tropical areas than areas at higher latitudes because of the last ice age 1.
 
 Until about 12,000 years ago, we were just coming out of an ice age where much of the world ([particularly at higher latitudes](https://upload.wikimedia.org/wikipedia/commons/4/42/Northern_icesheet_hg.png)) had been covered in glaciers. When these glaciers receded, the land below them was wiped clean of most living organisms. Geologically speaking, most of North America started over in its quest to evolve new species pretty recently. Although it was [likely cooler at the equator during the last ice age](http://www.columbia.edu/cu/record/archives/vol21/vol21_iss2/record2102.16.html) than it is now, tropical areas did not lose nearly as many species as their more poleward counterparts because actual glaciers never reached the equator. In this way, species in the tropics have been evolving for a longer period of time.
 
-	2) In the tropics, evolution has been acting longer because it isn't interrupted by pesky 	winters2.
+* In the tropics, evolution has been acting longer because it isn't interrupted by pesky winters2.
 
 Consider that the tropics have a pretty constant temperature and sunlight all year long. The poles can become unbearably cold, and go for days without any sunlight. It is much more difficult for species to live under these conditions. They often die, or become dormant during the cold dark months. However, species in the tropics are often able to grow and reproduce all year long. As a result, they can get a lot more growing, mating, and reproducing done every year. So although the time in a year may be the same no matter where you are, evolution can work more quickly in the tropics since it isn't taking any long winter breaks.
 
