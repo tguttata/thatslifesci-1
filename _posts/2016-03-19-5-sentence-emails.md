@@ -4,7 +4,7 @@ layout: page
 author: ekuras
 permalink: /5-sentence-emails/
 categories:
-  - Grad School Diaries
+- Grad School Diaries
 tags:
 - emails
 - science
@@ -13,7 +13,7 @@ subheadline: "Day in the Life"
 source-id: 1twhoJHbf9mHK4zqGEo-dsOR-8DBUi-Ap_WCjOl6ymiA
 published: true
 header: no
-image
+image:
   thumb: 20160306_Kuras_Fig2.png
 ---
 To: aspiring scientists
@@ -79,9 +79,12 @@ Evan
 
 >Dear beekeeper,
 >I'm a scientist studying bees,
+>
 >Attend a focus group soon won't you please?
+>
 >In expertise you are wealthy,
+>
 >So let's make bees healthy,
-
-Pick a time and we'll cure the disease!
+>
+>Pick a time and we'll cure the disease!
 
