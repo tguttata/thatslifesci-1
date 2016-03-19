@@ -16,4 +16,108 @@ dalcott:
   name: "Derrick Alcott"
   siterole: "PhD Student in Organismic & Evolutionary Biology"
   
+nfalconi:
+  name: "Nereyda Falconi"
+  siterole: "PhD Student in Department of Environmental Conservation"
+  
+mdevine:
+  name: "Matt Devine"
+  siterole: "MS Student in Environmental Conservation"
+  
+ekuras:
+  name: "Evan Kuras"
+  siterole: "MS Student in Environmental Conservation"
+  
+mdavis:
+  name: "Monica Davis"
+  siterole: "PhD Student in Environmental Conservation"
+  
+lgriffin:
+  name: "Lucas Griffin"
+  siterole: "PhD Student in Environmental Conservation"
+  
+agheredia:
+  name: "Alam Garcia-Heredia"
+  siterole: "PhD Student in Molecular & Cellular Biology"
+  
+sadvani:
+  name: "Sid Advani"
+  siterole: "PhD Student in Molecular & Cellular Biology & Physics"
+  
+sdelzell:
+  name: "Stephanie Delzell"
+  siterole: "PhD Student in Microbiology"
+  
+sha:
+  name: "Stephanie Ha"
+  siterole: "PhD Student in Microbiology"
+  
+gchaput:
+  name: "Gina Chaput"
+  siterole: "PhD Student in Microbiology"
+  
+emelzer:
+  name: "Emily Melzer"
+  siterole: "PhD Student in Microbiology"
+  
+dvahaba:
+  name: "Dan Vahaba"
+  siterole: "PhD Student in Neuroscience & Behavior"
+  
+akumar:
+  name: "Ajay Kumar"
+  siterole: "PhD Student in Neuroscience & Behavior"
+  
+lalteio:
+  name: "Lauren Alteio"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+hbroadley:
+  name: "Hannah Broadley"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+efusco:
+  name: "Emily Fusco"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+dnavon:
+  name: "Dina Navon"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+gpold:
+  name: "Grace Pold"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+cshaughnessy:
+  name: "Ciaran Shaughnessy"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+kstraley:
+  name: "Kit Straley"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+astrauss:
+  name: "Amy Strauss"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+avlinden:
+  name: "Abby Vander Linden"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+lhancock:
+  name: "Laura Hancock"
+  siterole: "MS Student in Organismic & Evolutionary Biology"
+  
+agrade:
+  name: "Aaron Grade"
+  siterole: "PhD Student in Organismic & Evolutionary Biology"
+  
+eaperkins:
+  name: "Elisha Allan-Perkins"
+  siterole: "PhD Student in Plant Biology"
+  
+jcoomey:
+  name: "Josh Coomey"
+  siterole: "PhD Student in Plant Biology"
+
 # you can add more authors here
