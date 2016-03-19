@@ -1,6 +1,6 @@
 ---
 title: Marvel at larval: An appreciation for young and developing fish
-layout: post
+layout: page
 author: mdevine
 permalink: /larval-marvel/
 tags:
