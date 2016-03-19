@@ -14,9 +14,19 @@ categories:
 teaser: "I came to school to study birds, and as luck would have it many birds eat bugs, so now I spend most of my time with bugs. I thought that this shift in subject would be a total bummer, completely boring, and let’s be honest – gross. Bugs can be pretty terrifying, especially if you don’t understand their behavior and why they have such odd strategies for life."
 source-id: 1BD5AF5Ih5Z9J_KfncfJYATt508oODHq5B2wFhBQXFq4
 published: true
+#
+# Styling
+#
+image:
+  thumb: "/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg"
+  homepage: ""
+  caption: ""
+  url: ""
+
+header:
+  image_fullwidth: "you-can-delete-me-header.png"
 ---
-![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg) 
-This tiny critter spins silk, incapacitates small insects with venom from its claws, and may even live in your house. Photo by Kyron Basu, BugGuide.net.
+![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg "This tiny critter spins silk, incapacitates small insects with venom from its claws, and may even live in your house. Photo by Kyron Basu, BugGuide.net.")
 
 One day, I was dumping out a jar full of preserved bugs from some forest leaf litter I'd collected from one of my field sites. I put the insects under a microscope and was shocked to see what looked like an adorable, teeny tiny scorpion. But wait - It couldn’t possibly be a scorpion! I collect my samples in Massachusetts, not a desert state in the southwest. Also, this scorpion seemed to be missing its tail. As I kept encountering more and more of these tail-less individuals, I realized that this must be something entirely different.
 
