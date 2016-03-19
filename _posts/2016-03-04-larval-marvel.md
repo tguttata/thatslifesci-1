@@ -12,6 +12,7 @@ teaser: "If you’ve ever spent time in, around, or on the water, you likely app
 source-id: 1UmRhqL1rfuuo0UF7eOwhHoKDKLWqebGky6eQg3lXl0k
 published: true
 ---
+
 Fish are beautiful specimens, and I've been lucky enough to swim alongside them. They also can be tasty, and I’ve fried many a fresh caught brook trout over a fire while camping. Fish are frisky and quick and I constantly struggle to corral them in a net, attempt to restrain them on a measuring board, or demand a friend snap a picture as I desperately grasp at wiggling slime. We are fascinated with fish of all species, color, and behavior. But let us take a moment to appreciate size. Small size. 
 
 [Fig 1]
