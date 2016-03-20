@@ -23,7 +23,7 @@ The ocean saw its first "sea turtle" well over 100 million years ago, an incredi
 
 Those fortunate enough to witness a several hundred pound sea turtle lay her eggs experience the same visceral response -- a feeling of awe in response to the turtles intense migration over hundreds to thousands of miles, returning to the same beach she was hatched at 25 to 50 years prior. Using the earth's magnetic field, a sea turtle is able to navigate through the vast ocean with astonishing precision. She lays and buries dozens of eggs within a small chamber beneath the sand. In the following decades, only a handful of her offspring are expected to survive and return to the same coastline to carry-on this ancient ritual. The life of a sea turtle is a life of journeys.
 
-![Fig 1]({{ site.urlimg }}20160307_Griffin1.jpeg)
+![Fig 1]({{ site.urlimg }}20160307_Griffin_Fig1.jpeg)
 **Fig 1.** Our family's first turtle sighting in South Africa, 1997. My sister standing alongside a nesting leatherback sea turtle. 
 
 Seven species of sea turtles exist around the world and all are categorized as threatened or endangered. This classification signifies that if no action is taken to conserve sea turtles, the potential is high for this species to become extinct. 
@@ -37,7 +37,7 @@ Sea turtle populations were heavily decimated by the 1800s when turtles and thei
 Today, conservation practices include outreach and education, community-based management (regulating or banning commercial harvests of turtles and eggs), turtle excluder devices in fishing nets, beach-nesting sanctuaries, and marine protected areas that encompass important sea turtle habitat.
 
 ![Fig 2]({{ site.urlimg }}20160307_Griffin_Fig2.JPG)
-Figure 2. A green sea turtle, and remora in tow, searching for suitable seagrass to feed on.
+**Fig 2.** A green sea turtle, and remora in tow, searching for suitable seagrass to feed on.
 
 The sea turtles mystique will not be the only entity lost upon their extinction. Sea turtles are important agents within a healthy ecosystem and each species fills a different ecological role. Habitats that are essential for marine life like sea grass beds and coral reefs are maintained by sea turtles through their eating habits. The enormity of a sea turtle extinction would be felt through countless ecosystems.  
 
