@@ -24,14 +24,14 @@ Since the 1st grade, I wanted to be an elementary school teacher like my mom was
 
 In college, I decided to conquer my dislike for dirt and major in Biology; I loved so much of what being an ecologist meant that I decided to not let a little bit of dirt get in my way. I got my first real field experience the summer after my sophomore year. Being out in the sun was suddenly exciting because it meant I was doing research. I was contributing my research findings to other scientists, just like the ecologists I used to read about in high school. After I graduated college, I even got an awesome opportunity to be a field technician out in the desert southwest hiking up mountains for six months. What made this opportunity even more exciting to me, was that I was working with bats (one of my favorite animals) mostly at night (my favorite time of the 'day').
 
-![FIG 1](/images/20160306_Hancock_Fig1.jpg)
+![FIG 1]({{ site.urlimg }}20160306_Hancock_Fig1.jpg)
 **Fig 1.** The view of a lifetime in Death Valley National Park. 
 
-![FIG 2](/images/20160306_Hancock_Fig2.jpg)
+![FIG 2]({{ site.urlimg }}20160306_Hancock_Fig2.jpg)
 **Fig 2.** Badwater Basin in Death Valley National Park. The ground behind the sign is covered in salt – the little bit of "water" there is so salty that it's really “bad” for you.
 
 Now, I'm a second year Master’s student at the University of Massachusetts Amherst. I study the invasive plant garlic mustard and how it affects other plants in a community (in biology, a "community" is all of the interacting species in a given area). This past year, I’ve found myself stuck inside at my desk sending e-mails more often than actually being outside. I’ve really started missing the fresh air and looking back to when I was younger, it’s hard to remember why I didn’t like being outside… except I still kind of don’t like the feeling of dirt. 
 
-![FIG 3](/images/20160306_Hancock_Fig3.jpg)
+![FIG 3]({{ site.urlimg }}20160306_Hancock_Fig3.jpg)
 **Fig 3.** Garlic mustard (also known as *Alliaria petiolata*) in its first-year "rosette" life stage. (Look at all that dirt!) Photo provided courtesy of Peter Muka.
 
