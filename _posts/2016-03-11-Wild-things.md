@@ -1,8 +1,10 @@
 ---
 title: Find Me Where the Wild Things Are
 layout: page
-author: thatslifescience
+author: gchaput
 permalink: /wild-things/
+categories:
+- Earth's Organisms
 tags:
 - microbial-ecology
 - baas-becking-hypothesis
@@ -11,17 +13,13 @@ tags:
 teaser: "Hey guys, the song 'Wild Things' by Alessia Cara inspired this post. Why? Well, other than the classic children’s story of a little boy playing with monsters, this song reminds me of all the types of organisms that my colleagues and I study (or “play with” if you will) in biology. So I have to ask, what would you consider wild things?"
 source-id: 1IMnLJ9StPtjecN59N7yTKb1W9dYoRMV-v04xtlXVrTg
 published: true
+header: no
+image:
+  title: 20160306_Chaput_Gina_Fig1.jpg
+  caption: Maurice Sendak, "Where the Wild Things Are" 1963 
+  caption_url: https://www.flickr.com/photos/95718785@N06/9060289402/in/dateposted/
+  thumb: 20160306_Chaput_Gina_Fig1.jpg
 ---
-Title: "Find Me Where the Wild Things Are"
-
-Key words: Microbial Ecology, Baas-Becking Hypothesis, Soil, Microbial Community Structure
-
-[Figure 1](https://www.flickr.com/photos/95718785@N06/9060289402/in/dateposted/): *Maurice Sendak,"Where the Wild Things Are" 1963 *
-
-Hey guys, 
-
-The song "Wild Things" by Alessia Cara inspired this post. Why? Well, other than the classic children's story of a little boy playing with monsters, this song reminds me of all the types of organisms that my colleagues and I study (or “play with” if you will) in biology. So I have to ask, *what would you consider wild things*?
-
 Mammals? 
 
 Birds? 
@@ -36,7 +34,7 @@ Now, maybe you realize some microbes make you sick (Chipotle anyone?), some help
 
 So today I want to take you to my small world, focusing on an argument that I was first taught in microbial ecology:
 
-"*alles is overal:maar het milieu selecteert*"
+>*alles is overal:maar het milieu selecteert*
 
 Translation: "Everything is everywhere, but the environment selects." Since 1934, when Lourens Baas-Becking wrote this famous hypothesis, debates about it have ensued; we have been talking for 82 years! Why has this been such a hot topic for so long? 
 
@@ -50,5 +48,5 @@ Now that you know both sides of the debate, I am going to leave it up to you. Wh
 
 References:
 
-De Wit, Rutger, and Thierry Bouvier. "'Everything is everywhere, but, the environment selects'; what did Baas Becking and Beijerinck really say?." *Environmental microbiology* 8, no. 4 (2006): 755-758.
+1. De Wit, Rutger, and Thierry Bouvier. "'Everything is everywhere, but, the environment selects'; what did Baas Becking and Beijerinck really say?." *Environmental microbiology* 8, no. 4 (2006): 755-758.
 
