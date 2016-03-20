@@ -9,7 +9,7 @@ published: true
 header: no
 image:
   title: 20160306_Ha_Fig1.png
-  caption: Electron microscopy images of common bacterial foodborne pathogens.** *(Left)* Scanning electron micrograph of *Escherichia   coli*, which consists of many different strains (types) capable of various diseases, including diarrhea. *(Right)* Transmission electron micrograph of *Listeria monocytogenes (L. monocytogenes)* in a tissue sample. *L. monocytogenes* causes the foodborne illness Listeriosis Photo credits: Rocky Mountain Laboratories, NIAID; CDC/ Dr. Balasubr Swaminathan, Peggy Hayes.
+  caption: Electron microscopy images of common bacterial foodborne pathogens.
   thumb: 20160306_Ha_Fig1.png
 ---
 **Where do pathogens come from?**
