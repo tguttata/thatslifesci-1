@@ -10,7 +10,6 @@ tags:
 - natural history
 categories:
 - Earth's Organisms
-
 teaser: "I came to school to study birds, and as luck would have it many birds eat bugs, so now I spend most of my time with bugs. I thought that this shift in subject would be a total bummer, completely boring, and let’s be honest – gross. Bugs can be pretty terrifying, especially if you don’t understand their behavior and why they have such odd strategies for life."
 source-id: 1BD5AF5Ih5Z9J_KfncfJYATt508oODHq5B2wFhBQXFq4
 published: true
@@ -19,11 +18,7 @@ published: true
 #
 image:
   thumb: 20160306_Straley_Fig1.jpg
-  homepage: ""
-  caption: ""
-  url: ""
-
-header:no
+header: no
 ---
 ![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg)
 **Fig 1.** This tiny critter spins silk, incapacitates small insects with venom from its claws, and may even live in your house. Photo by Kyron Basu, BugGuide.net.
