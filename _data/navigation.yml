@@ -12,14 +12,22 @@
   - title: "Meet the Authors"
     url: "#"
 
+- title: "Categories"
+  url: "blog/categories/"
+  side: left
+  dropdown:
+  - title: "Earth's Organisms"
+    url: "/blog/categories/earths-organisms"
+  - title: "Grad School Diaries"
+    url: "/blog/categories/grad-school-diaries"
+  - title: "How It Works"
+    url: "/blog/categories/how-it-works"
+  - title: "Our Ecosystem"
+    url: "/blog/categories/our-ecosystem"
+
 - title: "Archive"
   url: "/blog/archive/"
   side: left
-  dropdown:
-  - title: "Categories"
-    url: "/blog/categories/"
-  - title: "Tags"
-    url: "/blog/tags/"
 
 #
 #   Navigation to the right › side: right
