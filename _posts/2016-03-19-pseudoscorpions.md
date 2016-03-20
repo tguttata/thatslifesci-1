@@ -18,13 +18,12 @@ published: true
 # Styling
 #
 image:
-  thumb: "/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg"
+  thumb: 20160306_Straley_Fig1.jpg
   homepage: ""
   caption: ""
   url: ""
 
-header:
-  image_fullwidth: "you-can-delete-me-header.png"
+header:no
 ---
 ![image alt text]({{ site.url }}/public/TjWWdc4FS66dcRPYmrXLKw_img_0.jpg)
 **Fig 1.** This tiny critter spins silk, incapacitates small insects with venom from its claws, and may even live in your house. Photo by Kyron Basu, BugGuide.net.
