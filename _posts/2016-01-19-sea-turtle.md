@@ -1,20 +1,21 @@
 ---
 title: When a sea turtle balanced earth
 layout: page
-author: thatslifescience
+author: lgriffin
 permalink: /sea-turtle/
+categories:
+- Earth's Organisms
 tags:
 - conservation
 - sea-turtles
 teaser: "Nestling into my airplane seat I considered whether I was more excited to attend my first conference or to escape the daunting New England winter. Motive aside, I prepared for the departure to New Orleans. Poster tube in hand, I filtered through the airport aisles and made my way to the taxi stand. I was attending the 34th International Sea Turtle Symposium to present my data on green sea turtle tracking and to connect with other sea turtle researchers."
 source-id: 1uNMrz7PJEexCPhTYAET9AdlywRNd_WuDMo9Ao3nflyM
 published: true
+header: no
+image:
+  thumb: 20160307_Griffin_Fig2.JPG
 ---
-When a sea turtle balanced earth.
-
-Key words: Conservation, Sea turtles, Intrinsic Value of Wildlife
-
-Nestling into my airplane seat I considered whether I was more excited to attend my first conference or to escape the daunting New England winter. Motive aside, I prepared for the departure to New Orleans. Poster tube in hand, I filtered through the airport aisles and made my way to the taxi stand. I was attending the 34th International Sea Turtle Symposium to present my data on green sea turtle tracking and to connect with other sea turtle researchers. Away from the conference headquarters, I realized my skill for locating other turtle enthusiasts amongst the crowded city streets. My exploration transformed into a 'Where's Waldo?’ challenge, but instead of red & white caps, I combed the crowd for sea turtle printed T-shirts, flip-flops and the dead-give-away sea turtle tattoo. To my surprise, the majority of attendees weren’t actually biologists, they were sea turtle conservators who had dedicated their lives to late night beach patrols. In fact, the conference acknowledged and celebrated the life of 26-year-old sea turtle conservationist, Jairo Mora Sandoval, who was murdered months earlier after confronting sea turtle poachers on a beach in Costa Rica.
+Away from the conference headquarters, I realized my skill for locating other turtle enthusiasts amongst the crowded city streets. My exploration transformed into a 'Where's Waldo?’ challenge, but instead of red & white caps, I combed the crowd for sea turtle printed T-shirts, flip-flops and the dead-give-away sea turtle tattoo. To my surprise, the majority of attendees weren’t actually biologists, they were sea turtle conservators who had dedicated their lives to late night beach patrols. In fact, the conference acknowledged and celebrated the life of 26-year-old sea turtle conservationist, Jairo Mora Sandoval, who was murdered months earlier after confronting sea turtle poachers on a beach in Costa Rica.
 
 So what about sea turtles instills this power of captivation over so many people -- to the point even, that conservationists like Mora, would sacrifice his life to save them? Why should we be alarmed that this ancient species is disappearing from the globe?
 
@@ -22,18 +23,20 @@ The ocean saw its first "sea turtle" well over 100 million years ago, an incredi
 
 Those fortunate enough to witness a several hundred pound sea turtle lay her eggs experience the same visceral response -- a feeling of awe in response to the turtles intense migration over hundreds to thousands of miles, returning to the same beach she was hatched at 25 to 50 years prior. Using the earth's magnetic field, a sea turtle is able to navigate through the vast ocean with astonishing precision. She lays and buries dozens of eggs within a small chamber beneath the sand. In the following decades, only a handful of her offspring are expected to survive and return to the same coastline to carry-on this ancient ritual. The life of a sea turtle is a life of journeys.
 
-Figure 1. Our family's first turtle sighting in South Africa, 1997. My sister standing alongside a nesting leatherback sea turtle. 
+![Fig 1]({{ site.urlimg }}20160307_Griffin1.jpeg)
+**Fig 1.** Our family's first turtle sighting in South Africa, 1997. My sister standing alongside a nesting leatherback sea turtle. 
 
 Seven species of sea turtles exist around the world and all are categorized as threatened or endangered. This classification signifies that if no action is taken to conserve sea turtles, the potential is high for this species to become extinct. 
 
 For example, green sea turtle populations in the Caribbean have declined by over 90% since Columbus' arrival in 1492. On board Columbus’ 2nd voyage in 1494, Andres Bernaldez noted the impressive sea turtle densities they encountered off what is now known as Southeastern Cuba (as cited by Jackson 1997):
 
-But in those twenty leagues, they saw very many more, for the sea was thick with them, and they were of the very largest, so numerous that it seemed that the ships would run aground on them and were as if bathing in them.
+>But in those twenty leagues, they saw very many more, for the sea was thick with them, and they were of the very largest, so numerous that it seemed that the ships would run aground on them and were as if bathing in them.
 
 Sea turtle populations were heavily decimated by the 1800s when turtles and their eggs became heavily targeted as food to support large slave populations. Today, it is not possible to witness even a fraction of the sea turtle densities like Andres did in 1494. Current day sea turtle populations face numerous threats including over-harvest, habitat degradation, high rates of tourism, pollution, climate change, and increased rates of disease. There is, however, optimistic news. While sea turtle population numbers are still declining in the greater Pacific, recent evidence shows population numbers are remaining stable or even increasing in some key rookeries in the Atlantic Ocean, a phenomenon credited to the aggressive conservation efforts initiated by grassroots movements, NPOs, NGOs, government action, and researchers alike. 
 
 Today, conservation practices include outreach and education, community-based management (regulating or banning commercial harvests of turtles and eggs), turtle excluder devices in fishing nets, beach-nesting sanctuaries, and marine protected areas that encompass important sea turtle habitat.
 
+![Fig 2]({{ site.urlimg }}20160307_Griffin_Fig2.JPG)
 Figure 2. A green sea turtle, and remora in tow, searching for suitable seagrass to feed on.
 
 The sea turtles mystique will not be the only entity lost upon their extinction. Sea turtles are important agents within a healthy ecosystem and each species fills a different ecological role. Habitats that are essential for marine life like sea grass beds and coral reefs are maintained by sea turtles through their eating habits. The enormity of a sea turtle extinction would be felt through countless ecosystems.  
