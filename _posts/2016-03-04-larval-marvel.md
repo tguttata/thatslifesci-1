@@ -1,6 +1,5 @@
 ---
-title: An appreciation for young and developing fish
-subheadline: Marvel at larval
+title: Marvel at larval - An appreciation for young and developing fish
 layout: page
 author: mdevine
 permalink: /larval-marvel/
