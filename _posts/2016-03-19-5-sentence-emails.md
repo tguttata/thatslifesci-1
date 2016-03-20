@@ -26,7 +26,7 @@ Dear reader,
 
 I used to imagine most scientists spending all of their time pouring fluorescent liquids into Erlenmeyer flasks while wearing white lab coats. I imagined other scientists, spending weeks or months outside, following monkeys around the rainforest or collecting pollen from the legs of bees. What I didn't imagine was that scientists spend a lot of time writing emails.
 
-![Fig 1](/images/20160306_Kuras_Fig1.png)
+![Fig 1]({{ site.urlimg }}20160306_Kuras_Fig1.png)
 **Fig 1.** How I imagined most scientists.
 
 It doesn't mean we don’t also pour liquids, tag along with monkeys, or catch bees; it just means that doing those tasks usually requires emailing. Emails recruit undergraduate research assistants that will help prepare chemical solutions and clean glassware. Emails coordinate transportation logistics to and from Thailand. Emails arrange focus groups with beekeepers so you can learn about their hive maintenance practices.
@@ -41,7 +41,7 @@ Logical: well thought-out and makes sense
 
 A scientist I know follows the Rule of Five Sentences [http://five.sentenc.es] to effectively and efficiently compose emails. The idea isn't too different from texting, twitter, or snapchat. With limited space or characters, you have to be slick about expressing yourself. You have to pleasantly and neatly provide all your information in a few words such that everything makes sense. This blog post [[http://www.rachellegardner.com/the-one-sentence-summary/](http://www.rachellegardner.com/the-one-sentence-summary/)] has some tips and examples about writing concisely, although in the context of pitching or summarizing a book. 
 
-![Fig 2](/images/20160306_Kuras_Fig2.png)
+![Fig 2]({{ site.urlimg }}20160306_Kuras_Fig2.png)
 **Fig 2.**Screenshot from Rachelle Gardner's advice about summarizing big ideas.
 
 These five ingredients are essential parts of any effective communication recipe. Scientists use these elements when writing scientific papers, and we can use these elements when writing emails. How might these apply for a scientist emailing beekeepers in order to coordinate a focus group?
