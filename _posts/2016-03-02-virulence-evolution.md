@@ -6,6 +6,8 @@ permalink: /virulence-evolution/
 teaser: "Have you ever wondered why pathogens, or microorganisms that cause disease, exist? Why do these microbes choose to attack our bodies? What is fascinating is that pathogenic microbes are typically not—at least initially—looking for their next target. Instead, these microbes are generally just really good survivors."
 source-id: 1lGlbCj1C9G8Vh6cIJXXuMc8IOXUWleE9CPYambsTScY
 published: true
+categories:
+- How It Works
 header: no
 image:
   title: 20160306_Ha_Fig1.png
