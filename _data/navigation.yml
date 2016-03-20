@@ -8,9 +8,6 @@
 - title: "About"
   url: "/info/"
   side: left
-  dropdown:
-  - title: "Meet the Authors"
-    url: "#"
 
 - title: "Categories"
   url: "blog/categories/"
