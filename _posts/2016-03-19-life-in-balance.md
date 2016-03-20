@@ -45,7 +45,7 @@ Success!  I have probe, which means that tomorrow I can finally begin the week-l
 **1:00 pm**
 An undergraduate student I work with comes in to use the computer.  He's doing some data collection for me right now, but he’s eager to dip his toes into the world of molecular biology.  Today, he asks me some questions about a few papers I’ve sent him that use the very same technique I’ll be using tomorrow.  It’s a good chance for me to explain the procedure to him, testing my own understanding of it.
 
-![Fig 2](20160306_Navon_Fig2.jpg)
+![Fig 2]({{ site.urlimg }}20160306_Navon_Fig2.jpg)
 **Fig 2.** The results from a gene expression study in developing fly embryos.  Deep purple indicates gene expression.
 
 **1:15 pm**
