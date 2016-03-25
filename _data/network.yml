@@ -1,5 +1,15 @@
 - menu_name: "Links"
 
+- name: "LabFab"
+  url: "http://blogs.umass.edu/baskin/"
+  class: "link"
+  title: "LabFab"
+  
+- name: "Early Career Climate Forum"
+  url: "https://www.eccforum.org"
+  class: "link"
+  title: "Early Career Climate Forum"
+  
 - name: "UMass OEB"
   url: "http://gpls.cns.umass.edu/oeb"
   class: "link"
