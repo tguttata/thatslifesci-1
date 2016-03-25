@@ -6,4 +6,4 @@ subheadline: ""
 teaser: ""
 permalink: "/contact/"
 ---
-<iframe src="https://docs.google.com/forms/d/13Ki4iESN0UiXdABeZyhEt4JG9D-UFy60AcueDH66xfE/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/13Ki4iESN0UiXdABeZyhEt4JG9D-UFy60AcueDH66xfE/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0"></iframe>
