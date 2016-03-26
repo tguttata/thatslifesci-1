@@ -4,3 +4,4 @@ title: "Earth's Organisms"
 header:
     image_fullwidth: "you-can-delete-me-header.png"
 ---
+{% include list-posts category='earths-organisms' %}
