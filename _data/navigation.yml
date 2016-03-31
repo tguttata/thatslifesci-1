@@ -5,10 +5,6 @@
   url: "/"
   side: left
 
-- title: "About"
-  url: "/info/"
-  side: left
-
 - title: "Categories"
   url: "blog/categories/"
   side: left
@@ -22,6 +18,14 @@
   - title: "Our Ecosystem"
     url: "/blog/categories/our-ecosystem"
 
+- title: "Authors"
+  url: "authors"
+  side: left
+  
+- title: "About"
+  url: "/info/"
+  side: left
+  
 - title: "Archive"
   url: "/blog/archive/"
   side: left
