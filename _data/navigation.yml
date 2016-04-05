@@ -6,7 +6,7 @@
   side: left
 
 - title: "Categories"
-  url: "blog/categories/"
+  url: "/categories/"
   side: left
   dropdown:
   - title: "Earth's Organisms"
