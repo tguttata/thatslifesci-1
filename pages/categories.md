@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Categories"
-subheadline: "Categories"
+title: "Articles by Categories"
+subheadline: ""
 teaser: ""
 permalink: "/categories/"
 header: no
