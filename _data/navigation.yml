@@ -10,13 +10,13 @@
   side: left
   dropdown:
   - title: "Earth's Organisms"
-    url: "/earths-organisms"
+    url: "/earths-organisms/"
   - title: "Grad School Diaries"
-    url: "/grad-school-diaries"
+    url: "/grad-school-diaries/"
   - title: "How It Works"
-    url: "/how-it-works"
+    url: "/how-it-works/"
   - title: "Our Ecosystem"
-    url: "/our-ecosystem"
+    url: "/our-ecosystem/"
 
 - title: "Authors"
   url: "authors"
