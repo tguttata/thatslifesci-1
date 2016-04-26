@@ -1,8 +1,3 @@
-#- name: GitHub
-#  url: http://github.com/
-#  class: icon-github
-#  title: ""
-
 - name: Facebook
    url: https://www.facebook.com/thatslifesci/
    class: icon-facebook
@@ -18,7 +13,7 @@
 #  class: icon-youtube
 #  title: ""
   
- - name: Instagram
+- name: Instagram
    url: https://www.instagram.com/thatslifesci/
    class: icon-instagram
    title: ""
