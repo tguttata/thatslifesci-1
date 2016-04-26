@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Grad School Diaries"
-meta_title: "Contact Us"
+meta_title: ""
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/grad-school-diaries/"
