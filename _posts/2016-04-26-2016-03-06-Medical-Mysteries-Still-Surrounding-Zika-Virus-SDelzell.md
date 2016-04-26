@@ -12,9 +12,9 @@ tags:
 teaser: "The challenges of understanding, diagnosing, and treating Zika virus: there are more questions than answers."
 published: true
 header: 
- image_fullwidth: 
+ image_fullwidth: zika1.png
 image:
-  title: 
+  title: zika1.png
   caption: Yellow indicates areas that have had evidence of Zika virus infection.
   caption_url: http://www.nytimes.com/2016/01/05/health/us-becomes-more-vulnerable-to-tropical-diseases-like-zika.html
 source-id: 1vSb34ck6JqJFCDG96ayYq6ol2AYUYV2iLDxHdvwgGaA
