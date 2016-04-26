@@ -1,13 +1,12 @@
 <aside>
 	<div class="panel radius">
-		<h3>Read More</h3>
-		<p>
-{% for category in include.categories %}{% capture ignore %}
-	{% for page in site.pages %}{% if page.category == category %}{% assign category_page = page %}{% break %}{% endif %}{% endfor %}
-	{% endcapture %}<a
-			href="{{ site.baseurl }}/blog/category/{% unless category_page %}#{% endunless %}{{ category }}"
-		>{% if category_page %}{{ category_page.title }}{% else %}{{ category | capitalize }}{% endif %}</a>
-	{% unless forloop.last %}&middot;{% endunless %}
-{% endfor %}
+		{% assign categories_url = site.baseurl %}
+		<h3><a href="{{ categories_url }}">Categories</a></h3>
+		<ul class="no-bullet">
+		{% for category in site.categories %}
+			{% assign category_key = category[0] %}
+			<li class="icon-alias-category">{% include page_categories.html categories=category_key %}</li>
+		{% endfor %}
+		</li>
 	</div>
 </aside>
