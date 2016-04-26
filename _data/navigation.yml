@@ -2,6 +2,7 @@
 #   Navigation to the left › side: left
 #
 - title: Home
+  icon: home
   url: "/"
   side: left
 
@@ -9,14 +10,7 @@
   url: "/categories/"
   side: left
   dropdown:
-  - title: "Earth's Organisms"
-    url: "/categories/earths-organisms/"
-  - title: "Grad School Diaries"
-    url: "/categories/grad-school-diaries/"
-  - title: "How It Works"
-    url: "/categories/how-it-works/"
-  - title: "Our Ecosystem"
-    url: "/categories/our-ecosystem/"
+  - special: blog-categories
 
 - title: "Authors"
   url: "authors"
