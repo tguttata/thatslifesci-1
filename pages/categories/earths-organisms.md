@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Earth's Organisms"
-meta_title: "Contact Us"
+meta_title: ""
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/earths-organisms/"
