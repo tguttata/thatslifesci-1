@@ -17,6 +17,7 @@
   side: left
   
 - title: "About"
+  icon: v-card
   url: "/info/"
   side: left
   
@@ -29,9 +30,11 @@
 #
 
 - title: "Search"
+  icon: magnifying-glass
   url: "/search/"
   side: right
 
 - title: "Contact"
+  icon: mail
   url: "/contact/"
   side: right
