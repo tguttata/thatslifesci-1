@@ -12,7 +12,7 @@
   dropdown:
   - special: blog-categories
 
-- title: "Authors"
+- title: "Contributors"
   url: "/authors/"
   side: left
   
