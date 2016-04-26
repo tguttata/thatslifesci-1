@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How It Works"
-meta_title: "Contact Us"
+meta_title: ""
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/how-it-works/"
