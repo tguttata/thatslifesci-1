@@ -46,8 +46,8 @@ gems:
     - jekyll-gist
     - jekyll-paginate
     - github-pages
-paginate: 10                      # Paginates all X entries
-paginate_path: "/page:num/"   # Pagination path › Important for blog page in /blog/ to work
+paginate: 5                      # Paginates all X entries
+paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 
