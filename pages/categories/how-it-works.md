@@ -5,5 +5,7 @@ meta_title: ""
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/how-it-works/"
+header:
+image_fullwidth: howitworks-header.jpg
 ---
-{% include list-posts category='how-it-works' %}
+{% include list-posts category="How It Works" %}
