@@ -2,7 +2,7 @@
 title: When A Sea Turtle Balanced Earth
 layout: page
 author: lgriffin
-permalink: /2016-05-01-when-a-sea-turtle-balanced-earth-lgriffin/
+permalink: /2016-04-26-when-a-sea-turtle-balanced-earth-lgriffin/
 subheadline: "Why we should care about sea turtles"
 
 teaser: "What about sea turtles instills a power of captivation over so many people -- to the point even, that conservationists would sacrifice their life to save them? Why should we be alarmed that this ancient species is disappearing from the globe?"
@@ -37,7 +37,7 @@ Seven species of sea turtles exist around the world and all are categorized as t
 
 For example, green sea turtle populations in the Caribbean have declined by over 90% since Columbus' arrival in 1492. On board Columbus’ 2nd voyage in 1494, Andres Bernaldez noted the impressive sea turtle densities they encountered off what is now known as Southeastern Cuba [1]:
 
-But in those twenty leagues, they saw very many more, for the sea was thick with them, and they were of the very largest, so numerous that it seemed that the ships would run aground on them and were as if bathing in them.
+> But in those twenty leagues, they saw very many more, for the sea was thick with them, and they were of the very largest, so numerous  > that it seemed that the ships would run aground on them and were as if bathing in them.
 
 Sea turtle populations were heavily decimated by the 1800s when turtles and their eggs became heavily targeted as food to support large slave populations. Today, it is not possible to witness even a fraction of the sea turtle densities like Andres did in 1494. Current day sea turtle populations face numerous threats including over-harvest, habitat degradation, high rates of tourism, pollution, climate change, and increased rates of disease. There is however, optimistic news. While sea turtle population numbers are still declining in the greater Pacific, recent evidence shows population numbers are remaining stable or even increasing in some key rookeries in the Atlantic Ocean, a phenomenon credited to the aggressive conservation efforts initiated by grassroots movements, NPOs, NGOs, government action, and researchers alike. 
 
