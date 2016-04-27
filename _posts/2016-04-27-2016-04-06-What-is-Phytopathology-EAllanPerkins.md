@@ -16,7 +16,7 @@ tags:
   - Viruses
 
 image:
-  thumb: ""
+  thumb: "2016-05-01-Perkins-Fig3.jpg"
 
 header:
   image_fullwidth: "ecosystem-header.jpg"
