@@ -39,7 +39,7 @@ The majority of them are fungi.  This group of organisms contains the mushrooms 
 
 ![image alt text]({{ site.url }}/public/BC3NoFbXpRqKKnif1uSqlA_img_2.jpg)
 
-**Fig. 3** Late blight on tomatoes Source: [Scot Nelson, Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/06/Late_blight_of_tomato_caused_by_Phytophthora_infestans_(5815188381)){:target="_blank"}
+**Fig. 3** Late blight on tomatoes Source: ([Scot Nelson, Wikipedia](https://upload.wikimedia.org/wikipedia/commons/0/06/Late_blight_of_tomato_caused_by_Phytophthora_infestans_(5815188381)){:target="_blank"})
 
 Bacteria and viruses can also make your plants sick, just like they make people sick.  If you've ever seen little black specks on your tomato leaves or on your tomato fruits, you may have an infection by bacteria called *Pseudomonas syringae* (Figure 4).  Potato Virus Y not only harms potatoes, but can infect tomato plants too (Figure 5).  
 
