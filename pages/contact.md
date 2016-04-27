@@ -5,8 +5,8 @@ meta_title: "Contact Us"
 subheadline: ""
 teaser: ""
 permalink: "/contact/"
-image:
-   img_fullwidth: "you-can-delete-me-header.png"
+header: 
+ image_fullwidth: you-can-delete-me-header.png
 ---
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://thatslifesci.typeform.com/to/x6pgug" data-text="Contact Form" style="width:100%;height:500px;"></div>
