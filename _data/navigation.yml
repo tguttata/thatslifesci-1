@@ -11,13 +11,13 @@
   side: left
   dropdown:
   - title: "How It Works"
-    url: "/categories/how-it-works/"
+    url: "/categories/How It Works/"
   - title: "Grad School Diaries"
-    url: "/categories/grad-school-diaries/"
+    url: "/categories/Grad School Diaries/"
   - title: "Our Ecosystem"
-    url: "/categories/our-ecosystem/"
+    url: "/categories/Our Ecosystem/"
   - title: "Earth's Organisms"
-    url: "/categories/earths-organisms/"
+    url: "/categories/Earth's Organisms/"
     
 - title: "Contributors"
   url: "/authors/"
