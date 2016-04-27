@@ -1,3 +1,27 @@
+- name: Facebook
+  url: http://www.facebook.com/thatslifesci
+  class: icon-facebook
+  title: "Like us on Facebook!"
+
+- name: Twitter
+  url: http://twitter.com/thatslifesci
+  class: icon-twitter
+  title: "Follow our tweets on Twitter"
+
+- name: Instagram
+  url: http://instagram.com/thatslifesci
+  class: icon-instagram
+  title: "Check out our pictures on Instagram"
+
+#- name: Soundcloud
+#  url: http://soundcloud.com/twisterrob
+#  class: icon-soundcloud
+#  title: "Listen to my music on Soundcloud"
+#
+#- name: Instagram
+#  url: http://instagram.com/twisterrob
+#  class: icon-instagram
+#  title: "Check out my pictures on Instagram"
 #- name: YouTube
 #  url: http://www.youtube.com/
 #  class: icon-youtube
