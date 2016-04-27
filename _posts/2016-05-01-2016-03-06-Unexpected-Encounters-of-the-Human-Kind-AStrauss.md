@@ -19,7 +19,7 @@ published: true
 header: 
  image_fullwidth: gradschooldiaries-header.jpg
 image:
-  thumb: 20160306_Straley_Fig1.jpg
+  thumb: 20160306_Strauss_Fig1.jpg
 source-id: 1vSb34ck6JqJFCDG96ayYq6ol2AYUYV2iLDxHdvwgGaA
 published: true
 source-id: 1A31LUmk4y9iAokw0Ug6cWiWEG2erPFCyko_Wbq5zb6Y
