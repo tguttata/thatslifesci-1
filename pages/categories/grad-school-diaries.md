@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Grad School Diaries"
-meta_title: "Grad School Diaries"
+meta_title: "Grad School Diaries | That's Life [Science]"
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/grad-school-diaries/"
