@@ -35,7 +35,7 @@ This diagnosis dilemma exacerbates the problem of limited knowledge on how infec
 
 These pieces of information are frustrating not to have, but hopefully with the new attention on the problem, solutions will come quickly. Before we have these answers, there are many ways for the people in affected areas to be cautious: mosquito nets, repellents, and delaying pregnancy. Armed with the right questions, scientists continue to search for answers to diagnose and prevent the spread of Zika virus infection. 
 
-**References: **
+**References:**
 
 [1] Rubin, Eric J., M. F. Greene, and L. R. Baden. 2016. Zika Virus and Microcephaly. *The New England Journal of Medicine*, 374: 984-5
 
