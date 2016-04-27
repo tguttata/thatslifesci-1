@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Articles by Categories"
+meta_title: "Categories | That's Life [Science]"
 subheadline: ""
 teaser: ""
 permalink: "/categories/"
-header: no
+header:
+   image_fullwidth: you-can-delete-me-header.png
 ---
 {% for category in site.categories %}
 {% assign category_key = category[0] %}
