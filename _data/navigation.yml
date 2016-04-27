@@ -9,8 +9,6 @@
 - title: "Categories"
   url: "/categories/"
   side: left
-  dropdown:
-  - special: blog-categories
 
 - title: "Contributors"
   url: "/authors/"
