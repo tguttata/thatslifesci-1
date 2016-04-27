@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Contributors"
 meta_title: "Contributors | That's Life [Science]"
 subheadline: ""
