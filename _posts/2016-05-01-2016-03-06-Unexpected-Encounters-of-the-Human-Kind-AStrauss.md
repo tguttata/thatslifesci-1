@@ -16,7 +16,7 @@ tags:
 teaser: "Research in a lab setting allows for control over many environmental variables and conditions, but can be limiting due to the unnatural context. Research in a field setting can be more natural and realistic, however that tight control over the environment is lost. One unpredictable source of a challenging field environment? People."
 published: true
 header: 
- image_fullwidth: gradschooldiaries-header.jpg
+  image_fullwidth: gradschooldiaries-header.jpg
 image:
   thumb: 20160306_Strauss_Fig1.jpg
 source-id: 1vSb34ck6JqJFCDG96ayYq6ol2AYUYV2iLDxHdvwgGaA
