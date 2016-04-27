@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: page
 title: "Articles by Categories"
 meta_title: "Categories | That's Life [Science]"
 subheadline: ""
