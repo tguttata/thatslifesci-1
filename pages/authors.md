@@ -71,12 +71,6 @@ Contributors go here
         <p><b>Elisha Allan-Perkins</b></p>
         <p>PhD Candidate, Plant Biology</p>
         </div>
-
-        <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}pold.jpg" alt="Grace Pold">
-        <p><b>Grace Pold</b></p>
-        <p>PhD Candidate, Organismic and Evolutionary Biology</p>
-        </div>
       
         <div class="medium-4 columns">
         <img src="{{ site.urlimg }}linden.jpg" alt="Abby Vander Linden">
@@ -137,12 +131,17 @@ Contributors go here
         <p><b>Nereyda Falconi</b></p>
         <p>PhD Student, Department of Environmental Conservation</p>
         </div>
-
         
         <div class="medium-4 columns">
         <img src="{{ site.urlimg }}kuras.jpg" alt="Evan Kuras">
         <p><b>Evan Kuras</b></p>
         <p>MS Student, Department of Environmental Conservation</p>
+        </div>
+        
+        <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}pold.jpg" alt="Grace Pold">
+        <p><b>Grace Pold</b></p>
+        <p>PhD Candidate, Organismic and Evolutionary Biology</p>
         </div>
 
 </div><!-- /.row -->
