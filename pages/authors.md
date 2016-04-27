@@ -11,6 +11,13 @@ header:
 Contributors go here
 
 <div class="row t30">
+
+        <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}alcott.jpg" alt="Derrick Alcott">
+        <p><b>Derrick Alcott</b></p>
+        <p>PhD Candidate, Organismic and Evolutionary Biology</p>
+        </div>
+        
         <div class="medium-4 columns">
         <img src="{{ site.urlimg }}navon.jpg" alt="Dina Navon">
         <p><b>Dina Navon</b></p>
@@ -27,12 +34,6 @@ Contributors go here
         <img src="{{ site.urlimg }}perkins.jpg" alt="Elisha Allan-Perkins">
         <p><b>Elisha Allan-Perkins</b></p>
         <p>PhD Candidate, Plant Biology</p>
-        </div>
-        
-        <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}alcott.jpg" alt="Derrick Alcott">
-        <p><b>Derrick Alcott</b></p>
-        <p>PhD Candidate, Organismic and Evolutionary Biology</p>
         </div>
 
         <div class="medium-4 columns">
@@ -90,12 +91,6 @@ Contributors go here
         </div>
 
         <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}kuras.jpg" alt="Evan Kuras">
-        <p><b>Evan Kuras</b></p>
-        <p>MS Student, Department of Environmental Conservation</p>
-        </div>
-
-        <div class="medium-4 columns">
         <img src="{{ site.urlimg }}ciaran.jpg" alt="Ciaran A. Shaughnessy">
         <p><b>Ciaran A. Shaughnessy</b></p>
         <p>PhD Student, Organismic and Evolutionary Biology</p>
@@ -135,6 +130,12 @@ Contributors go here
         <img src="{{ site.urlimg }}griffin.jpg" alt="Lucas Griffin">
         <p><b>Lucas Griffin</b></p>
         <p>PhD Student, Intercampus Marine Science Graduate Program</p>
+        </div>
+        
+        <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}kuras.jpg" alt="Evan Kuras">
+        <p><b>Evan Kuras</b></p>
+        <p>MS Student, Department of Environmental Conservation</p>
         </div>
 
 </div><!-- /.row -->
