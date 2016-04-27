@@ -5,5 +5,7 @@ meta_title: ""
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/grad-school-diaries/"
+header:
+image_fullwidth: gradschooldiaries-header.jpg
 ---
-{% include list-posts category='grad-school-diaries' %}
+{% include list-posts category="Grad School Diaries" %}
