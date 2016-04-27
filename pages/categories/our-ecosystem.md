@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Our Ecosystem"
-meta_title: "Our Ecosystem"
+meta_title: "Our Ecosystem | That's Life [Science]"
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/our-ecosystem/"
