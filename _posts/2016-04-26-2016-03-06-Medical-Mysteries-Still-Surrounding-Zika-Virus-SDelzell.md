@@ -1,7 +1,7 @@
 ---
 title: Medical Mysteries Still Surrounding Zika Virus
 layout: page
-author: thatslifescience
+author: sdelzell
 permalink: /2016-03-06-medical-mysteries-still-surrounding-zika-virus-sdelzell.docx/
 categories:
 - How It Works
