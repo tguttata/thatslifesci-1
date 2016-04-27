@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Earth's Organisms"
-meta_title: ""
+meta_title: "Earth's Organisms"
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/earths-organisms/"
