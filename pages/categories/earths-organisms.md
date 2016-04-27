@@ -6,4 +6,4 @@ subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/earths-organisms/"
 ---
-{% include list-posts category='earths-organisms' %}
+{% include list-posts category="Earth's Organisms" %}
