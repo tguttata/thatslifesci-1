@@ -7,7 +7,7 @@ subheadline: "Why we should care about sea turtles"
 
 teaser: "What about sea turtles instills a power of captivation over so many people -- to the point even, that conservationists would sacrifice their life to save them? Why should we be alarmed that this ancient species is disappearing from the globe?"
 categories:
-  - Earth's Organisms
+  - Earths Organisms
 tags:
   - Conservation
   - Sea turtles
@@ -58,4 +58,4 @@ Leaving this first conference, my appreciation for sea turtles was solidified af
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset='1' category='Earth's Organisms' %}
+{% include list-posts offset='1' category='Earths Organisms' %}
