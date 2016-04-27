@@ -18,8 +18,6 @@ header: no
 <h3 id="{{ category_key }}">
 {% if category_data %}
 <a href="{{ site.baseurl }}/blog/category/{{ category_key }}/" class="icon-alias-category">{{ category_data.title }}</a>
-{% else %}
-{{ category_key | capitalize }}
 {% endif %}
 </h3>
 {% if 0 < category_posts.size %}
