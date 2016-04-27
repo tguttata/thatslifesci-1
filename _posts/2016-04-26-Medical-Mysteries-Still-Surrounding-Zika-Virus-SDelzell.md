@@ -41,4 +41,4 @@ These pieces of information are frustrating not to have, but hopefully with the 
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset=1 category='How It Works' %}
+{% include list-posts offset='1' category='How It Works' %}
