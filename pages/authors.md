@@ -3,13 +3,11 @@ layout: page-fullwidth
 title: "Contributors"
 meta_title: "Contributors | That's Life [Science]"
 subheadline: ""
-teaser: ""
+teaser: "That's Life [Science] is a student-run life science outreach blog. The present and past contributors that made this blog possible are listed below."
 permalink: "/authors/"
 header:
    image_fullwidth: you-can-delete-me-header.png
 ---
-Contributors go here
-
 <div class="row t30">
 
         <div class="medium-4 columns">
