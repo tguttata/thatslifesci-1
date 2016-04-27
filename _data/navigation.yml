@@ -9,7 +9,16 @@
 - title: "Categories"
   url: "/categories/"
   side: left
-
+  dropdown:
+  - title: "How It Works"
+    url: "/categories/how-it-works/"
+  - title: "Grad School Diaries"
+    url: "/categories/grad-school-diaries/"
+  - title: "Our Ecosystem"
+    url: "/categories/our-ecosystem/"
+  - title: "Earth's Organisms"
+    url: "/categories/earths-organisms/"
+    
 - title: "Contributors"
   url: "/authors/"
   side: left
