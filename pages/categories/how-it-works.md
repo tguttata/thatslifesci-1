@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "How It Works"
-meta_title: ""
+meta_title: "How It Works"
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/how-it-works/"
 header:
-image_fullwidth: howitworks-header.jpg
+   image_fullwidth: howitworks-header.jpg
 ---
 {% include list-posts category="How It Works" %}
