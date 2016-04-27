@@ -20,6 +20,41 @@ Contributors go here
         </div>
         
         <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}griffin.jpg" alt="Lucas Griffin">
+        <p><b>Lucas Griffin</b></p>
+        <p><a href = "https://lucas-griffin.squarespace.com">Website</a></p>
+        <p>PhD Student, Intercampus Marine Science Graduate Program</p>
+        </div>
+        
+        <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}straley.jpg" alt="Kit Straley">
+        <p><b>Kit Straley</b></p>
+        <p><a href = "www.kstraleyeco.wordpress.com">Website</a></p>
+        <p>PhD Candidate, Organismic and Evolutionary Biology</p>
+        </div>
+        
+        <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}strauss.jpg" alt="Amy V. H. Strauss">
+        <p><b>Amy V. H. Strauss</b></p>
+        <p><a href = "http://gpls.cns.umass.edu/oeb/directory/amy-strauss">Website</a></p>
+        <p>PhD Student, Organismic and Evolutionary Biology</p>
+        </div>
+        
+        <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}grade.jpg" alt="Aaron Grade">
+        <p><b>Aaron Grade</b></p>
+        <p><a href = "www.agradeeco.wordpress.com">Website</a></p>
+        <p>PhD Student, Organismic and Evolutionary Biology</p>
+        </div>
+        
+        <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}vahaba.jpg" alt="Dan Vahaba">
+        <p><b>Dan Vahaba</b></p>
+        <p><a href = "vahaba.weebly.com">Website</a></p>
+        <p>PhD Candidate, Neuroscience and Behavior</p>
+        </div>
+        
+        <div class="medium-4 columns">
         <img src="{{ site.urlimg }}navon.jpg" alt="Dina Navon">
         <p><b>Dina Navon</b></p>
         <p>PhD Candidate, Organismic and Evolutionary Biology</p>
@@ -42,39 +77,11 @@ Contributors go here
         <p><b>Grace Pold</b></p>
         <p>PhD Candidate, Organismic and Evolutionary Biology</p>
         </div>
-
-        <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}straley.jpg" alt="Kit Straley">
-        <p><b>Kit Straley</b></p>
-        <p><a href = "www.kstraleyeco.wordpress.com">Website</a></p>
-        <p>PhD Candidate, Organismic and Evolutionary Biology</p>
-        </div>
       
         <div class="medium-4 columns">
         <img src="{{ site.urlimg }}linden.jpg" alt="Abby Vander Linden">
         <p><b>Abby Vander Linden</b></p>
         <p>PhD Student, Organismic and Evolutionary Biology</p>
-        </div>
-
-        <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}strauss.jpg" alt="Amy V. H. Strauss">
-        <p><b>Amy V. H. Strauss</b></p>
-        <p><a href = "http://gpls.cns.umass.edu/oeb/directory/amy-strauss">Website</a></p>
-        <p>PhD Student, Organismic and Evolutionary Biology</p>
-        </div>
-
-        <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}grade.jpg" alt="Aaron Grade">
-        <p><b>Aaron Grade</b></p>
-        <p><a href = "www.agradeeco.wordpress.com">Website</a></p>
-        <p>PhD Student, Organismic and Evolutionary Biology</p>
-        </div>
-        
-        <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}vahaba.jpg" alt="Dan Vahaba">
-        <p><b>Dan Vahaba</b></p>
-        <p><a href = "vahaba.weebly.com">Website</a></p>
-        <p>PhD Candidate, Neuroscience and Behavior</p>
         </div>
 
         <div class="medium-4 columns">
@@ -131,12 +138,6 @@ Contributors go here
         <p>PhD Student, Department of Environmental Conservation</p>
         </div>
 
-        <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}griffin.jpg" alt="Lucas Griffin">
-        <p><b>Lucas Griffin</b></p>
-        <p><a href = "https://lucas-griffin.squarespace.com">Website</a></p>
-        <p>PhD Student, Intercampus Marine Science Graduate Program</p>
-        </div>
         
         <div class="medium-4 columns">
         <img src="{{ site.urlimg }}kuras.jpg" alt="Evan Kuras">
