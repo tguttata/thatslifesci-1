@@ -12,7 +12,7 @@ tags:
 teaser: "The challenges of understanding, diagnosing, and treating Zika virus: there are more questions than answers."
 published: true
 header: 
- image_fullwidth:
+ image_fullwidth: howitworks-header.jpg
 image:
   thumb: zika1.png 
   title: zika1.png
