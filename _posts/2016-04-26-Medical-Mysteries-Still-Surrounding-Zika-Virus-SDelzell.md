@@ -39,3 +39,6 @@ These pieces of information are frustrating not to have, but hopefully with the 
 
 [1] Rubin, Eric J., M. F. Greene, and L. R. Baden. 2016. Zika Virus and Microcephaly. *The New England Journal of Medicine*, 374: 984-5
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts category='How It Works' %}
