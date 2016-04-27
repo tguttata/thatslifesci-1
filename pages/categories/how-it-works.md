@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "How It Works"
-meta_title: "How It Works"
+meta_title: "How It Works | That's Life [Science]"
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/how-it-works/"
