@@ -2,9 +2,8 @@
 title: Unexpected Encounters of the Human Kind
 layout: page
 author: astrauss
-permalink: /2016-03-06-unexpected-encounters-of-the-human-kind-astrauss.doc/
+permalink: /2016-03-06-unexpected-encounters-of-the-human-kind-astrauss/
 subheadline: "What happens when a researcher steps outside the lab and into the public sphere?"
-
 categories:
 - Grad School Diaries
 tags:
