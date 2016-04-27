@@ -15,6 +15,7 @@ Contributors go here
         <div class="medium-4 columns">
         <img src="{{ site.urlimg }}alcott.jpg" alt="Derrick Alcott">
         <p><b>Derrick Alcott</b></p>
+        <p><a href = "https://gpls.cns.umass.edu/oeb/directory/derrick-alcott"Website></a></p>
         <p>PhD Candidate, Organismic and Evolutionary Biology</p>
         </div>
         
