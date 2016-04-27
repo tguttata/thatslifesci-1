@@ -5,7 +5,7 @@
 		<ul class="bullet">
 		{% for category in site.categories %}
 			{% assign category_key = category[0] %}
-			<h4><li class="icon-alias-category">{% include page_categories.html categories=category_key %}</h4></li>
+			<h5><li class="icon-alias-category">{% include page_categories.html categories=category_key %}</h5></li>
 		{% endfor %}
 		</li>
 	</div>
