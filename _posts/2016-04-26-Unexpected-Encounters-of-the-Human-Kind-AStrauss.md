@@ -25,20 +25,6 @@ header:
 source-id: 1A31LUmk4y9iAokw0Ug6cWiWEG2erPFCyko_Wbq5zb6Y
 published: true
 ---
-**Title**: Unexpected Encounters of the Human Kind
-
-**Sub-headline: **What happens when a researcher steps outside the lab and into the public sphere?
-
-**Author: **Amy V. H. Strauss
-
-**Category**: Grad School Diaries
-
-**Keywords**: field, research, fieldwork, unpredictability, the public, humans
-
-**Teaser**: Research in a lab setting allows for control over many environmental variables and conditions, but can be limiting due to the unnatural context. Research in a field setting can be more natural and realistic, however that tight control over the environment is lost. One unpredictable source of a challenging field environment? People.
-
-**Featured Photo(s):** Thumbnail image = Fig. 3, Banner image = Fig. 1.
-
 "You want me to shoot it for you?" 
 
 The wrinkle-faced man was completely perplexed by my research partner and me. It was a hot summer morning in rural Kansas, and we were idling on the side of a dirt road, staring silently through binoculars at a small songbird singing on a telephone wire. 
