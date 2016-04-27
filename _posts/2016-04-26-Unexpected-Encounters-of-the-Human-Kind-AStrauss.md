@@ -81,3 +81,6 @@ Working in the field means being subject not only to the weather and the element
 
 …but they sure do keep things interesting.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset='1' category='Grad School Diaries' %}
