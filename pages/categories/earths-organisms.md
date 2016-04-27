@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Earth's Organisms"
-meta_title: "Earth's Organisms"
+meta_title: "Earth's Organisms | That's Life [Science]"
 subheadline: "Articles in Category"
 teaser: ""
 permalink: "/categories/earths-organisms/"
