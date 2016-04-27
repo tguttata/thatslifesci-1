@@ -55,3 +55,6 @@ With all the organisms out there that can harm your plants, it's amazing more of
 
 So this growing season if you see anything fuzzy, spotty, or generally wrong with your tomatoes (or other plants) think about the phytopathologists who would secretly be a little excited to look at your cool disease and are very happy to help you keep it from happening again. 
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset='1' category='Our Ecosystem' %}
