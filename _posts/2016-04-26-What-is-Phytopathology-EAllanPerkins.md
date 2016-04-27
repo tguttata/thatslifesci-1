@@ -45,7 +45,7 @@ Bacteria and viruses can also make your plants sick, just like they make people 
 
 ![image alt text]({{ site.url }}/public/BC3NoFbXpRqKKnif1uSqlA_img_3.jpg)
 
-**Fig. 4** Bacterial speck on tomatoes (Source:  (Chris Smart, NYSAES, Geneva NY)(https://commons.wikimedia.org/w/index.php?curid=14542170){:target="_blank"})
+**Fig. 4** Bacterial speck on tomatoes (Source:  [Chris Smart, NYSAES, Geneva NY](https://commons.wikimedia.org/w/index.php?curid=14542170){:target="_blank"})
 
 With all the organisms out there that can harm your plants, it's amazing more of them aren’t sick.  Luckily, the plants are pretty good at defending themselves and phytopathologists work very hard to keep them healthy as well.  What kinds of things do phytopathologists do?  Some of us study diseases to learn more about how organisms infect plants, how they spread, and what plants they can infect so we can prevent them from spreading or infecting.  Other researchers study ways of controlling disease, like developing new pesticides or management strategies (like spacing plants further apart or watering at certain times of the day).   Some phytopathologists work to breed plants that are more resistant to disease.  Others work in diagnostic clinics, like the [University of Massachusetts Plant Diagnostic Clinic](https://ag.umass.edu/diagnostics)) where they receive samples from local farmers and homeowners.  They identify what is wrong with the plant (abiotic or biotic) and give the grower recommendations on how to manage the problem.  Most phytopathologists do a mixture of all of these.
 
