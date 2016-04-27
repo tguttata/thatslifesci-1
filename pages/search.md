@@ -2,7 +2,9 @@
 permalink: /search/
 layout: page
 title: "Search"
-header: no
+meta_title: "Search | That's Life [Science]"
+header:
+   image_fullwidth: you-can-delete-me-header.png
 ---
 
 {% include _google_search.html %}
