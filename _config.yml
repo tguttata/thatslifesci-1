@@ -181,8 +181,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter:
-    facebook:
+    twitter: thatslifesci
+    facebook: thatslifesci
 
 
 #        ____  _
@@ -194,7 +194,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname:
+disqus_shortname: thatslifescience
 
 
 #      _____
