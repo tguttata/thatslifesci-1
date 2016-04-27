@@ -43,6 +43,9 @@ format: post
 			{{ content }}
 			</div>
 
+			{% if page.show_meta == true %}
+			{% include _post_nav.html %}
+			{% endif %}
 
 			{% if page.comments == true %}
 			{% include _comments.html %}
