@@ -8,4 +8,9 @@ permalink: "/info/"
 header:
    image_fullwidth: you-can-delete-me-header.png
 ---
-**That's Life Science** is a free source of articles about many different topics within the realm of life science. It was created by an interdisciplinary collective of life science graduate students who strive to provide ready access of life science to the general public. We examine life at many levels, from looking <Inside the Body> to examining the relationship between us and <The Environment>. If you need your daily fix of animal pictures and videos, find some new favorites in <Plants & Animals>. Come with us to our labs and field sites in our <Grad School Diaries> to see what the day-to-day is like as a scientist. Join us each week as we explore the circle of life through the eyes of science!
+**That’s Life [Science]** is a free source of articles spanning the realm of the life sciences. It was created by an interdisciplinary collective of graduate students who strive to provide readily accessible information about the life sciences to the general public. We examine life at many levels, from molecules to entire ecosystems and consider the evolutionary history, behavior, physiology, and ecology of life. If you need your daily fix of animal pictures and videos, find some new favorites in [Earth's Organisms]({{ site.url }}/thatslifesci/categories/Earth's%20Organisms/). If you're curious about a new disease or odd animal behavior, we'll show you [How It Works]({{ site.url }}/thatslifesci/categories/How%20It%20Works/). Come with us to our labs and field sites in [Grad School Diaries]({{ site.url }}/thatslifesci/categories/Grad%20School%20Diaries/) to see what day-to-day life is like as a scientist. Join us as we explore life through the lense of science!  
+
+We’d like to thank our faculty advisor Dr. Patricia Brennan for her guidance, as well as our funding source, the UMass Amherst Graduate Student Organizations. 
+
+TLS articles do not represent the views of the University of Massachusetts Amherst, the UMass Amherst Graduate Student Organizations, or any affiliated groups or persons beyond the individual author(s) of each article.
+
