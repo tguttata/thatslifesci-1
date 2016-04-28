@@ -31,7 +31,7 @@ The wrinkle-faced man was completely perplexed by my research partner and me. It
 
 He had pulled his pickup truck parallel to our 15-passenger 1990s van, the temporary field vehicle loaned to us by the Kansas State University Department of Biology. There was a shotgun sitting in plain view on the passenger seat of his truck.
 
-"No thank you!"* *We flashed over-the-top smiles, feeling anxious. We were two bright-eyed, college-aged girls from California – relatively new to research, and *very* new to Kansas.
+"No thank you!" We flashed over-the-top smiles, feeling anxious. We were two bright-eyed, college-aged girls from California – relatively new to research, and *very* new to Kansas.
 
 ![image alt text]({{ site.url }}/public/3Y34ftBhkuk8badSWjHiBQ_img_0.jpg)
 
@@ -49,7 +49,7 @@ I have mixed feelings about the exposure that comes along with working outside. 
 
 I once worked for a summer very close to the border between two countries with a lot of social and political tension. The lead researcher and I had come from Canada and the U.S., respectively, and we were working with a local field assistant, hired for his excellent knowledge of the local flora and fauna, his familiarity with the trails and parks of the region, and his ability to translate from the native language of the country into English. We relied heavily on his biological and cultural expertise throughout the field season. 
 
-As part of the project, we were searching for birds' nests in the rainforest so we could monitor them throughout the breeding season. Nests tend to be built in extremely camouflaged locations, woven into the architecture of the forest so as not to be discovered by predators. While this is indeed beneficial for predator avoidance, it makes it very challenging for human researchers to find and re-find nests. So when a nest is found, our typical system is to mark it with flagging tape so we can return to check on it again later on.
+As part of the project, we were searching for birds' nests in the rainforest so we could monitor them throughout the breeding season. Nests tend to be built in extremely camouflaged locations, woven into the architecture of the forest so as not to be discovered by predators. While this is indeed beneficial for predator avoidance, it makes it very challenging for human researchers to find and re-find nests. So when a nest is found, our typical system is to mark a nearby landmark with flagging tape so we can return to check on it again later on.
 
 "No, you cannot mark the nest like that!" After excitedly flagging our first nest, we were quickly told by our local expert that this was not okay.
 
