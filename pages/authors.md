@@ -6,7 +6,7 @@ subheadline: ""
 teaser: "That's Life [Science] is a student-run life science outreach blog. The present and past contributors that made this blog possible are listed below."
 permalink: "/authors/"
 header:
-   image_fullwidth: authors-header.jpg
+   image_fullwidth: you-can-delete-me-header.png
 ---
 <div class="row t30">
 
