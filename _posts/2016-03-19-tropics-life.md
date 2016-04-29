@@ -21,7 +21,7 @@ tags:
  - Biogeography
  - Tropics
 header:
- image_fullwidth: ourecosystem-header.jpg
+ image_fullwidth: ecosystem-header.jpg
 source-id: 1bz9VMOpn4VcCHpOrXLe40XCMPRPghWpSn1EtW5p9ysA
 published: true
 ---
