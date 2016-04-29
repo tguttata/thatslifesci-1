@@ -24,37 +24,15 @@ header:
 source-id: 1bz9VMOpn4VcCHpOrXLe40XCMPRPghWpSn1EtW5p9ysA
 published: true
 ---
-**Title: **It's standing room only at the equator
+Imagine the [North Pole](https://upload.wikimedia.org/wikipedia/commons/4/4c/Baffin_Island_Northeast_Coast_1997-08-07.jpg). Now imagine the [Amazon Rainforest](https://upload.wikimedia.org/wikipedia/commons/e/e8/Amazon_jungle_from_above.jpg). Which place is home to more plants and animals? This seems like a very simple question, and it is. The Amazon has more plants, animals, and species in general than the North Pole. Perhaps, the better question here is WHY are there so many more species in the Amazon?
 
-**Sub-headline:** A closer look at species diversity in the tropics
+This observation is true for places other than the North Pole and the Amazon Rainforest. With few exceptions, you can pick any place at the equator, and as you move north or south (poleward), you will find lower species diversity. The pattern, known as the Latitudinal Diversity Gradient, simply means that as you increase in latitude, you decrease in biodiversity (number of species).
 
- 
-
-**Author(s):** Emily Fusco
-
- 
-
-**Category:** Our Ecosystems
-
- 
-
-**Keywords: **Species, Biodiversity, Biogeography, Tropics
-
-**Teaser:** Ever wonder why the tropics have more plants and animals than places closer to the poles? You aren't alone.
-
- 
-
-**Featured Photo(s): **Thumbnail image = Fig. 1; Banner image = Fig. 1
-
- 
-
-Imagine the[ North Pole](https://upload.wikimedia.org/wikipedia/commons/4/4c/Baffin_Island_Northeast_Coast_1997-08-07.jpg). Now imagine the[ Amazon Rainforest](https://upload.wikimedia.org/wikipedia/commons/e/e8/Amazon_jungle_from_above.jpg). Which place is home to more plants and animals? This seems like a very simple question, and it is. The Amazon has more plants, animals, and species in general than the North Pole. Perhaps, the better question here is WHY are there so many more species in the Amazon?
-
-This observation is true for places other than the North Pole and the Amazon Rainforest. With few exceptions, you can pick any place at the equator, and as you move north or south (poleward), you will find lower species diversity. The pattern, known as the Latitudinal Diversity Gradient, simply means that as you increase in latitude, you decrease in biodiversity (number of species).![image alt text]({{ site.url }}/public/ottZMGvfiyHDGGVuboNg_img_0.jpg)
+![image alt text]({{ site.url }}/public/ottZMGvfiyHDGGVuboNg_img_0.jpg)
 
 **Fig. 1** The Amazon Rainforest is home to many plants and animals. (Source: "Amazon Rainforest, Venezuela" by Eric Pheterson licensed under CC BY-2.0)
 
- Biodiversity is a result of two processes, the addition of new species  through[ evolution](http://science.howstuffworks.com/life/evolution/evolution1.htm) (speciation), and the loss of existing species (extinction). When speciation exceeds extinction, you end up with high biodiversity. There are quite a few (more than 30!) existing ideas about why this is the case in the tropics.
+Biodiversity is a result of two processes, the addition of new species  through [evolution](http://science.howstuffworks.com/life/evolution/evolution1.htm) (speciation), and the loss of existing species (extinction). When speciation exceeds extinction, you end up with high biodiversity. There are quite a few (more than 30!) existing ideas about why this is the case in the tropics.
 
 Let's start by thinking about why speciation is so high in the tropics. Some scientists believe it is because there has been more time for evolution in the tropics. We can think of this in two ways:
 
@@ -70,7 +48,7 @@ Even with all of this evolution happening in the tropics, biodiversity would sti
 
 With high rates of evolution, and low rates of extinction, the tropics can be seen as both a cradle and a museum for life on Earth[ (as was famously stated by Stebbins, 1974).](http://www.scientificamerican.com/article/cradle-or-museum-for-the/) If you are not convinced by these explanations for Earth's latitudinal diversity gradient, you aren't alone. (Remember, there are more than 30 hypotheses!) You may be wondering about  species migration, species competition, or the potential[ illusion](http://izt.ciens.ucv.ve/ecologia/Archivos/ECOLOGIA_DE%20_POBLACIONES_Hasta%202004/ECOL_POBLAC_Hasta%202004_(O-Z)/Stevens%201989.pdf) of a latitudinal diversity gradient. If you are, look[ here](https://en.wikipedia.org/wiki/Latitudinal_gradients_in_species_diversity), or if you are little more ambitious,[ here](http://onlinelibrary.wiley.com/doi/10.1111/jbi.12228/full) , for more potential explanations. 
 
-**References:                                                                                                            	**
+**References:**
 
 [1] Fischer, Alfred G. "Latitudinal variations in organic diversity." *Evolution* 14, no. 1 (1960): 64-81.   	
 
