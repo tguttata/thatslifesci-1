@@ -13,14 +13,15 @@ subheadline: "A closer look at species diversity in the tropics"
 teaser: "Ever wonder why the tropics have more plants and animals than places closer to the poles? You aren't alone."
 image:
  thumb: tropics-life-1.jpg
-categories: Our Ecosystem
+categories: 
+- Our Ecosystem
 tags:
 - Species
 - Biodiversity
 - Biogeography
 - Tropics
 header:
- image_fullwidth: tropics-life-1.jpg
+ image_fullwidth: ourecosystem-header.jpg
 source-id: 1bz9VMOpn4VcCHpOrXLe40XCMPRPghWpSn1EtW5p9ysA
 published: true
 ---
