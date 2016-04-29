@@ -1,5 +1,5 @@
 ---
-title: It's standing room only at the equator
+title: It's Standing Room Only At The Equator
 layout: page
 author: efusco
 permalink: /2016-03-19-tropics-life/
