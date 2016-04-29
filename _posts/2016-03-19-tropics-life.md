@@ -1,6 +1,6 @@
 ---
 title: It's standing room only at the equator
-layout: post
+layout: page
 author: efusco
 permalink: /2016-03-19-tropics-life/
 tags:
