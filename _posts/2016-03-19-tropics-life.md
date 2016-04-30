@@ -14,7 +14,7 @@ teaser: "Ever wonder why the tropics have more plants and animals than places cl
 image:
  thumb: tropics-life-1.jpg
 categories: 
- - Our Ecosystem
+ - Our Ecosystems
 tags:
  - Species
  - Biodiversity
