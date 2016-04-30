@@ -80,6 +80,13 @@ header:
         </div>
          
         <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}garcia.jpg" alt="Alam Garcia Heredia">
+        <p><b>Alam Garcia Heredia</b></p>
+        <p><a href = "http://www.microbiosymas.com/alam.html" target = "_blank">Website</a></p>
+        <p>PhD Student, Molecular and Cellular Biology</p>
+        </div>
+        
+        <div class="medium-4 columns">
         <img src="{{ site.urlimg }}grade.jpg" alt="Aaron Grade">
         <p><b>Aaron Grade</b></p>
         <p><a href = "http://www.agradeeco.wordpress.com" target = "_blank">Website</a></p>
