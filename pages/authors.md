@@ -155,7 +155,7 @@ header:
         </div>
          
         <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}linden.jpg" alt="Abby Vander Linden">
+        <img src="{{ site.urlimg }}vanderlinden.jpg" alt="Abby Vander Linden">
         <p><a href = "mailto:vanderlinden@bio.umass.edu" target = "_top"><b>Abby Vander Linden</b></a></p>
         <p>PhD Student, Organismic and Evolutionary Biology</p>
         </div>
