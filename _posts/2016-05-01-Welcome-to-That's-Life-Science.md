@@ -26,3 +26,7 @@ That's Life [Science] Team
 Spring 2016
 ![image alt text]({{ site.url }}/public/WMKiFP33UCSUyvpMSxMA_img_1.jpg)
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="0" category="Grad School Diaries" %}
+
