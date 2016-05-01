@@ -11,7 +11,7 @@ tags:
 header:
  image_fullwidth: you-can-delete-me-header.png
 image:
- thumb:
+ thumb: tls-group-sp-16.jpg
 source-id: 1kM3h9bmFKJqPjCZQ8P9fBXtroSBYnDbPJHU6Gb0hPO8
 published: true
 ---
