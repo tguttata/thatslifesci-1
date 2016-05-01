@@ -69,4 +69,4 @@ Working in the field means being subject not only to the weather and the element
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset='1' category='Grad School Diaries' %}
+{% include list-posts entries='1' category='Grad School Diaries' %}
