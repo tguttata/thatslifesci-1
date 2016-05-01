@@ -28,5 +28,5 @@ Spring 2016
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="0" category="Grad School Diaries" %}
+{% include list-posts entries="1" category="Grad School Diaries" %}
 
