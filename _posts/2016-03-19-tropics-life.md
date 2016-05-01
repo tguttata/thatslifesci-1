@@ -55,5 +55,8 @@ With high rates of evolution, and low rates of extinction, the tropics can be se
 
 [2] Rohde, Klaus. "Latitudinal gradients in species diversity: the search for the primary cause." *Oikos* (1992): 514-527.
 
-[3] Hutchinson, G. Evelyn. "Homage to Santa Rosalia or why are there so many kinds of animals?." *The American Naturalist* 93, no. 870 (1959): 145-159.          
+[3] Hutchinson, G. Evelyn. "Homage to Santa Rosalia or why are there so many kinds of animals?." *The American Naturalist* 93, no. 870 (1959): 145-159.
 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" category="Our Ecosystems" %}
