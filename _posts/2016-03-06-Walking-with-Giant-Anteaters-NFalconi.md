@@ -17,18 +17,6 @@ image:
 source-id: 172APXM_M23fruMxMs8ctXvM_ZIX63vG0X2Xrqo0GMto
 published: true
 ---
-Title: Walking with Giant Anteaters
-
-Author: Nereyda Falconi
-
-Category: Earth's Organisms
-
-Keywords: Amazon rainforest, mammals, myrmecophagy
-
-Teaser: Do you know anteaters?
-
-Featured Photo: Thumbnail Image = Fig.1; Banner image= Fig. 1
-
 Imagine yourself in the Amazon rainforest, walking on a trail, when suddenly you see something big moving in front of you. Even knowing most of the species of an area, your brain will spend some minutes processing the image in front of you… long fur, about two feet tall standing on "all fours."  But…. where is the head? You are then confronted with the bizarre sight of a conical head and a tiny pair of eyes. The animal has stopped in front of you, and by the looks of it, it seems that the creature is also having trouble figuring out what creature are you. Less than a second passes and it runs away. Was that a giant anteater? … YES!!! IT WAS A GIANT ANTEATER!!! You can imagine my excitement. 
 
 Maybe you haven't seen a giant anteater, or if you have, maybe you don’t know very much about them.  Giant anteaters occur only in South and Central America (from Honduras to Paraguay and Argentina) and are extremely elusive animals. They are known in scientific classification as *Myrmecophaga tricdactyla*, and are very sensitive to human disturbances of the places they live. For that reason they are they are more frequently found in pristine forests and tropical savannas. 
