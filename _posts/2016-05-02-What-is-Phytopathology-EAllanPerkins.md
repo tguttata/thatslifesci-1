@@ -33,9 +33,9 @@ For this first post, I want to tell you a little about what plant diseases are. 
 
 ![image alt text]({{ site.url }}/public/BC3NoFbXpRqKKnif1uSqlA_img_1.jpg)
 
-**Fig. 2** Fungal rot on nectarines (Source: No machine-readable author provided. [Roger McLassus 1951](https://commons.wikimedia.org/w/index.php?curid=1100701){:target="_blank"}, CC BY-SA 3.0.)
+**Fig. 2** Fungal rot on nectarines (Source: [Roger McLassus, 1951, Wikipedia](https://commons.wikimedia.org/w/index.php?curid=1100701){:target="_blank"}, CC BY-SA 3.0.)
 
-The majority of them are fungi.  This group of organisms contains the mushrooms we commonly eat or see growing in the woods, but also tiny microscopic versions that love to eat plants.  They are responsible for problems like powdery mildew, that white fuzz that gets all over your cucumbers or lilacs (Figure 1), and for the grey fuzz on your oranges or peaches that have been sitting on the counter for too long (Figure 2).  There are also organisms called oomycetes, which are often grouped with the fungi because they look and act similar, and they cause problems like late blight on your tomatoes (Figure 3).  
+The majority of them are fungi; a group that includes the mushrooms we commonly eat or see growing in the woods as well as tiny microscopic thread-like organisms that love to eat plants.  They are responsible for problems like powdery mildew, that white fuzz that gets all over your cucumbers or lilacs (Figure 1), and for the grey fuzz on your oranges or peaches that have been sitting on the counter for too long (Figure 2).  There are also organisms called oomycetes, which are often grouped with the fungi because they look and act similar, and they cause problems like late blight on your tomatoes (Figure 3).  
 
 ![image alt text]({{ site.url }}/public/BC3NoFbXpRqKKnif1uSqlA_img_2.jpg)
 
