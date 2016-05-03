@@ -11,47 +11,26 @@ tags:
 - soundscape ecology
 - public health
 categories:
- -Our Ecosystems
+ - Our Ecosystems
 header:
  image_fullwidth: ecosystem-header.jpg
 image:
  thumb: agrade-fig5.jpg
-teaser: “What would the world be like if it weren’t for natural sounds? Are we facing an imminent extinction of the natural soundscape experience?”
-subheadline: “”
+teaser: What would the world be like if it weren’t for natural sounds? Are we facing an imminent extinction of the natural soundscape experience?
 source-id: 1hVwo_DJuiSL1_sWMqjDXJNcGmOYhG2p891GN6-fj810
 published: true
 ---
-**Title: **A World without Birdsong
-
-**Author:** Aaron Grade
-
-**Category: **Our Ecosystems
-
-**Key Words:** Conservation, bioacoustics, human dimensions, urban ecology, soundscape ecology, public health
-
-**Teaser: **What would the world be like if it weren't for natural sounds? Are we facing an imminent extinction of the natural soundscape experience?
-
-**Featured Photo: **Fig. 5
-
 A Minor Bird
 
-*"I have wished a bird would fly away,*
-
-*And not sing by my house all day;*
-
-*Have clapped my hands at him from the door*
-
-*When it seemed as if I could bear no more.*
-
-*The fault must partly have been in me.*
-
-*The bird was not to blame for his key.*
-
-*Of course there must be something wrong*
-
-*In wanting to silence any song."*
-
--Robert Frost
+>*"I have wished a bird would fly away,*
+>*And not sing by my house all day;*
+>*Have clapped my hands at him from the door*
+>*When it seemed as if I could bear no more.*
+>*The fault must partly have been in me.*
+>*The bird was not to blame for his key.*
+>*Of course there must be something wrong*
+>*In wanting to silence any song."*
+<cite>Robert Frost</cite>
 
 Imagine a world without bird song. Without the bright song of the Chickadee, or the chorus of frogs, the roaring buzz of cicadas. For many people living in large cities, this is already a reality, and as many people move to cities, more and more will live with fewer natural sounds. This human disconnect from the natural "soundscape" (a given landscape of sound across space and through time) has far-reaching implications – from public health to wildlife conservation. As easy as it is to “tune out” this pressing issue, our most primal selves resonate with the power of natural sounds.
 
