@@ -45,6 +45,7 @@ Ecologists, scientists who study the relationship between living things and thei
  ![image alt text]({{ site.url }}/public/Ui2o6QuTpztExwPuiVwPw_img_1.jpg)
 
 **Fig 2.** Nosy neighbors! Entire bird and mammal communities listen in on what Chickadees have to say. (Photo from [flickr.com](https://www.flickr.com/photos/72005145@N00/3601484869)).
+
 {% highlight html %}
 <audio src="{{ site.url }}/public/agrade.mp3" type="audio/mp3" controls="controls"></audio>
 {% endhighlight %}
