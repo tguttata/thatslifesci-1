@@ -51,6 +51,7 @@ Ecologists, scientists who study the relationship between living things and thei
 ![image alt text]({{ site.url }}/public/Ui2o6QuTpztExwPuiVwPw_img_1.jpg)
 
 <audio src="{{ site.url }}/public/agrade.mp3" type="audio/mp3" controls="controls"></audio>
+
 **Fig 2.** Nosy neighbors! Entire bird and mammal communities listen in on what Chickadees have to say. (Photo from [flickr.com](https://www.flickr.com/photos/72005145@N00/3601484869)).
 
 Ecologists are also using recordings of the sounds of nature to study soundscapes. New technologies such as digital remote sound recorders have allowed scientists to record sounds in remote locations for months at a time. They can even use [GPS sound recorders](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4100896/) arranged in a grid to find a sounds exact location. With these tools, a recent study in Michigan was able to show the changing environmental conditions and "health" (for example, diversity of wildlife) of a forest based on years of soundscape recordings[^4].
