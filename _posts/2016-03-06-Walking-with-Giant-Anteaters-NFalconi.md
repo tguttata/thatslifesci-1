@@ -38,7 +38,6 @@ Picture Challenge:
 I hope that you will have the opportunity to meet one of these wonderful creatures and can appreciate the amazing animal adaptation and evolutionary forces at work. Just be careful when you find one; they can be dangerous animals even though they look so cute and harmless. 
 
 **Bibliography cited:**
-
 [^1]: Miranda F., Bertassoni, A. and Abba, A.M. 2014. " *Myrmecophaga tridactyla *En: The IUCN Red List of Threatened Species 2014”. [http://dx.doi.org/10.2305/IUCN.UK.20141.RLTS.T14224A47441961.en](http://dx.doi.org/10.2305/IUCN.UK.20141.RLTS.T14224A47441961.en) (accessed Feb 18, 2016).
 
 [^2]: Naples, Virginia L. "Morphology, Evolution and Function of Feeding in the Giant Anteater (Myrmecophaga Tridactyla)." *Journal of Zoology* 249, no. 1. (1999): 19–41. 
