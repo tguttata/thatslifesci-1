@@ -58,7 +58,7 @@ Ecologists are also using recordings of the sounds of nature to study soundscape
 
 ![image alt text]({{ site.url }}/public/Ui2o6QuTpztExwPuiVwPw_img_2.jpg)
 
-**Fig 3.** New technology such as these GPS-enabled microphones gives scientists the ability to "listen in" on the world around them. (Photo from **[listening earth](http://www.listeningearth.com/blog/the-pibo-an-experimental-diy-soundscape-microphone-array) reproduced with permission).
+**Fig 3.** New technology such as these GPS-enabled microphones gives scientists the ability to "listen in" on the world around them. (Photo from [listening earth](http://www.listeningearth.com/blog/the-pibo-an-experimental-diy-soundscape-microphone-array) reproduced with permission).
 
 Natural sounds are not just important to wildlife, they are important for human well-being. People that live in cities experience a constant barrage of unpleasant noise – jackhammers, honking horns, and the dull roar of traffic. These sounds elevate stress, negatively affect sleep quality, and can even put adults at a higher risk of heart disease and other health issues[^5]. People who are exposed to recordings of natural sounds become instantly less stressed and feel better[^6]. Beyond a person's health, exposure to natural sounds connects an individual with nature, and reminds them of the fundamental importance of wildlife. If everyone lives in cities, and natural sounds in cities are overwhelmed by human-created sounds, will people lose touch with wildlife? This justifies the importance of wildland sanctuaries in the hinterlands, in addition to greenspace in cities.
 
