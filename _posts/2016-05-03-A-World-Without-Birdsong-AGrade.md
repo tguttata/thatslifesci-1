@@ -23,15 +23,14 @@ mediaplayer: true
 ---
 A Minor Bird
 
-> I have wished a bird would fly away
+> I have wished a bird would fly away 
 > And not sing by my house all day;
-Have clapped my hands at him from the door
-When it seemed as if I could bear no more.
-The fault must partly have been in me.
-The bird was not to blame for his key.
-Of course there must be something wrong
-In wanting to silence any song.
-
+> Have clapped my hands at him from the door
+> When it seemed as if I could bear no more.
+> The fault must partly have been in me.
+> The bird was not to blame for his key.
+> Of course there must be something wrong
+> In wanting to silence any song.
 <cite>Robert Frost</cite>
 
 Imagine a world without bird song. Without the bright song of the Chickadee, or the chorus of frogs, the roaring buzz of cicadas. For many people living in large cities, this is already a reality, and as many people move to cities, more and more will live with fewer natural sounds. This human disconnect from the natural "soundscape" (a given landscape of sound across space and through time) has far-reaching implications – from public health to wildlife conservation. As easy as it is to “tune out” this pressing issue, our most primal selves resonate with the power of natural sounds.
