@@ -22,14 +22,14 @@ published: true
 ---
 A Minor Bird
 
->*"I have wished a bird would fly away,*
->*And not sing by my house all day;*
->*Have clapped my hands at him from the door*
->*When it seemed as if I could bear no more.*
->*The fault must partly have been in me.*
->*The bird was not to blame for his key.*
->*Of course there must be something wrong*
->*In wanting to silence any song."*
+>I have wished a bird would fly away
+And not sing by my house all day;
+Have clapped my hands at him from the door
+When it seemed as if I could bear no more.
+The fault must partly have been in me.
+The bird was not to blame for his key.
+Of course there must be something wrong
+In wanting to silence any song.
 <cite>Robert Frost</cite>
 
 Imagine a world without bird song. Without the bright song of the Chickadee, or the chorus of frogs, the roaring buzz of cicadas. For many people living in large cities, this is already a reality, and as many people move to cities, more and more will live with fewer natural sounds. This human disconnect from the natural "soundscape" (a given landscape of sound across space and through time) has far-reaching implications – from public health to wildlife conservation. As easy as it is to “tune out” this pressing issue, our most primal selves resonate with the power of natural sounds.
@@ -62,7 +62,7 @@ It is critical that we conserve natural soundscapes in both wildlands and cities
 
 **Fig 5.** Natural sounds are often awe inspiring! (Photo from Wikimedia commons). 
 
-References
+**References:**
 
 [1] 	Pijanowski, Bryan C., Almo Farina, Stuart H. Gage, Sarah L. Dumyahn, and Bernie L. Krause. 2011. "What is Soundscape Ecology? an Introduction and Overview of an Emerging New Science." *Landscape Ecology* 26 (9): 1213-1232. doi:10.1007/s10980-011-9600-8.
 
@@ -76,5 +76,7 @@ References
 
 [6] 	Alvarsson, Jesper J., Stefan Wiens, and Mats E. Nilsson. 2010. "Stress Recovery during Exposure to Nature Sound and Environmental Noise." *International Journal of Environmental Research and Public Health* 7 (3): 1036-1046.
 
- 
+## More From Thats Life [Science]
+{: .t60 }
+{% include list-posts offset="1" category="Our Ecosystems" %}
 
