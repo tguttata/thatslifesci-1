@@ -70,7 +70,6 @@ It is critical that we conserve natural soundscapes in both wildlands and cities
 
 **Fig 5.** Natural sounds are often awe inspiring! (Photo from Wikimedia commons). 
 
-**References:**
 
 [^1]:Pijanowski, Bryan C., Almo Farina, Stuart H. Gage, Sarah L. Dumyahn, and Bernie L. Krause. 2011. "What is Soundscape Ecology? an Introduction and Overview of an Emerging New Science." *Landscape Ecology* 26 (9): 1213-1232. doi:10.1007/s10980-011-9600-8.
 
@@ -88,3 +87,4 @@ It is critical that we conserve natural soundscapes in both wildlands and cities
 {: .t60 }
 {% include list-posts offset="1" category="Our Ecosystems" %}
 
+**References:**
