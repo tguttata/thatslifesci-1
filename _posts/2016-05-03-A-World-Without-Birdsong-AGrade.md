@@ -24,7 +24,9 @@ mediaplayer: true
 A Minor Bird
 
 > I have wished a bird would fly away 
+>
 > And not sing by my house all day;
+
 > Have clapped my hands at him from the door
 > When it seemed as if I could bear no more.
 > The fault must partly have been in me.
