@@ -38,6 +38,7 @@ Picture Challenge:
 I hope that you will have the opportunity to meet one of these wonderful creatures and can appreciate the amazing animal adaptation and evolutionary forces at work. Just be careful when you find one; they can be dangerous animals even though they look so cute and harmless. 
 
 **Bibliography cited:**
+
 [^1]: Wilson, Don E., and DeeAnn M. Reeder, eds. *Mammal species of the world: a taxonomic and geographic reference*. Vol. 2. JHU Press, 2005.
 
 [^2]: Naples, Virginia L. "Morphology, Evolution and Function of Feeding in the Giant Anteater (Myrmecophaga Tridactyla)." *Journal of Zoology* 249, no. 1. (1999): 19–41. 
