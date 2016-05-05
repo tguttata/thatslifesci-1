@@ -43,6 +43,10 @@ format: post
 			{{ content }}
 			</div>
 
+			{% if page.show_meta.sharer %}
+			{% include sharer.html %}
+			{% endif %}
+			
 			{% if page.show_meta == true %}
 			{% include _post_nav.html %}
 			{% endif %}
