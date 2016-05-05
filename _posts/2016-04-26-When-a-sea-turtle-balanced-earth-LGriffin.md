@@ -58,4 +58,4 @@ Leaving this first conference, my appreciation for sea turtles was solidified af
 
 ## More From Thats Life [Science]
 {: .t60 }
-{% include list-posts offset="1" category="Earths Organisms" %}
+{% include list-posts offset="1" category="Earth's Organisms" %}
